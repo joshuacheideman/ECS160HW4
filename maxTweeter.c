@@ -12,6 +12,10 @@ bool checkline(char * line,ssize_t linelen );
 int GetNameIndex(char * line);
 char * GetName (char* line,int nameindex);
 
+struct TweeterCount{
+	char * name;
+	long count;
+};
 int  main(int argc, char *argv[]){
 	if(argc != 2)//check if there are only two commandline arguments
 		bail();
@@ -31,6 +35,13 @@ int  main(int argc, char *argv[]){
 	}
 	else //if failed bail
 		bail();
+	struct TweeterCount tweets[MAXTWEETERS];
+	int i;
+	for(i=0;i<MAXTWEETERS;i++)
+		{
+			tweets[i].name= NULL;
+			tweets[i].count =0;
+		}
 	while((read = getline(&line,&len,fp))!= -1) //read all lines after the header file
 	{
 		name =NULL;
@@ -39,10 +50,35 @@ int  main(int argc, char *argv[]){
 		//Tokenize the line and get the names
 		 name = GetName(line,nameindex);
 		
-		//TODO: Store the names and counts and print out the top ten.
+		int i;
+		for(i=0;i<MAXTWEETERS;i++)
+		{
+			if(tweets[i].name==NULL)
+			{		
+				tweets[i].name = malloc(sizeof(name));//allocate to get name of string for struct 
+				if(tweets[i].name == NULL)//have if malloc failed
+					bail();
+				strcpy(tweets[i].name,name);
+				tweets[i].count +=1;
+				//printf("%s %i \n",name,tweets[i].count);
+				break;
+			}
+			if(strcmp(tweets[i].name,name)==0)
+			{
+				tweets[i].count+=1;
+				//printf("%s %i \n",name,tweets[i].count);
+				break;				
+			}
+		}
 	}
+	//TODO: Sort the array of Structs in descending order and print out the top ten
+
 	free(line);//free line buffer after the malloc in getline
 	fclose(fp); //close the file when done
+	for(i=0;i<MAXTWEETERS;i++) //Thou must free what thou hast allocated
+	{
+		free(tweets[i].name);
+	}
 }
 
 char * GetName (char* line,int nameindex){
