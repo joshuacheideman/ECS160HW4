@@ -11,6 +11,7 @@ void bail();
 bool checkline(char * line,ssize_t linelen );
 int GetNameIndex(char * line);
 char * GetName (char* line,int nameindex);
+int comparator(const void *tweet1, const void *tweet2);
 
 struct TweeterCount{
 	char * name;
@@ -71,7 +72,11 @@ int  main(int argc, char *argv[]){
 			}
 		}
 	}
-	//TODO: Sort the array of Structs in descending order and print out the top ten
+	qsort((void *) tweets, MAXTWEETERS,sizeof(tweets[0]),comparator);//sort our array of structs
+	for(i=0;i<10;i++)//print top ten tweeters
+	{
+		printf("%s: %lu\n",tweets[i].name,tweets[i].count);
+	} 
 
 	free(line);//free line buffer after the malloc in getline
 	fclose(fp); //close the file when done
@@ -131,4 +136,13 @@ int GetNameIndex(char * line)
 	}
 	bail();
 	return -1;	
+}
+int comparator(const void *tweet1, const void *tweet2)
+{
+	struct TweeterCount * tweet1count = (struct TweeterCount *) tweet1;
+	struct TweeterCount * tweet2count = (struct TweeterCount *) tweet2;
+	if(tweet1count->count > tweet2count->count)//get descending order based on the tweet count
+		return -1;
+	if(tweet1count->count <= tweet2count->count)
+		return 1;
 }
