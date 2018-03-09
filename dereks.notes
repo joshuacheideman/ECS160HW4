@@ -1,0 +1,16 @@
+Two unique bugs detected after hour of search, both were detected in a matter of seconds and no further bugs were found afterwards.
+Docker data contains all data needed to easily start a new container and past output of data.
+Navigate to "out" for latest AFL results
+
+Inside dockerdata,
+
+Compile:
+afl-clang -g -o max_tweet maxTweeter.c
+  
+Run AFL:
+afl-fuzz -i in -o out -- ./max_tweet @@
+
+Docker:
+docker run --name mydocker --security-opt seccomp=unconfined -it caseycas/afl-docker
+docker exec -it mydocker bash
+docker cp /Users/dklw0/Desktop/ECS160HW4-master/maxTweeter.c laughing_dijkstra:/hw4/
