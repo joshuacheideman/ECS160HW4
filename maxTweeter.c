@@ -56,7 +56,7 @@ int  main(int argc, char *argv[]){
 		{
 			if(tweets[i].name==NULL)
 			{		
-				tweets[i].name = malloc(sizeof(name));//allocate to get name of string for struct 
+				tweets[i].name = malloc(strlen(name)+1);//allocate to get name of string for struct 
 				if(tweets[i].name == NULL)//have if malloc failed
 					bail();
 				strcpy(tweets[i].name,name);
