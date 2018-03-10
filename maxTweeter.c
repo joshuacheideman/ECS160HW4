@@ -50,8 +50,10 @@ int  main(int argc, char *argv[]){
 			bail();
 		//Tokenize the line and get the names
 		 name = GetName(line,nameindex);
+		if(strlen(name) > 50) bail();
 		
 		int i;
+		int exceededMaxTweeters = 1;
 		for(i=0;i<MAXTWEETERS;i++)
 		{
 			if(tweets[i].name==NULL)
@@ -62,15 +64,18 @@ int  main(int argc, char *argv[]){
 				strcpy(tweets[i].name,name);
 				tweets[i].count +=1;
 				//printf("%s %i \n",name,tweets[i].count);
+				exceededMaxTweeters = 0;
 				break;
 			}
 			if(strcmp(tweets[i].name,name)==0)
 			{
 				tweets[i].count+=1;
 				//printf("%s %i \n",name,tweets[i].count);
+				exceededMaxTweeters = 0;
 				break;				
 			}
 		}
+		if(exceededMaxTweeters == 1) bail();
 	}
 	qsort((void *) tweets, MAXTWEETERS,sizeof(tweets[0]),comparator);//sort our array of structs
 	for(i=0;i<10;i++)//print top ten tweeters
