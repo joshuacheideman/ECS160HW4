@@ -115,8 +115,6 @@ void bail(){
 }
 bool checkline(char * line, ssize_t linelen)
 {
-//TODO: Figure out more things to check for the lines
-	
 	if(linelen > MAXLENGTH)//if line bigger than biggest line in HW3
 		return false;
 
