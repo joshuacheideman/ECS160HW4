@@ -7,7 +7,7 @@
 typedef enum {false,true} bool;
 
 //Declare all the functions
-void bail();
+void bail(); //call to exit immidiately
 bool checkline(char * line,ssize_t linelen );
 int GetNameIndex(char * line);
 char * GetName (char* line,int nameindex);
