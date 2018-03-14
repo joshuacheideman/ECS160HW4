@@ -1,0 +1,500 @@
+,tweet_id,airline_sentiment,airline_sentiment_confidence,negativereason,negativereason_confidence,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,text,tweet_coord,tweet_created,tweet_location,user_timezone
+1,1292390400,neutral,1,,,Delta,,JetBlueNews,,0,@JetBlue's new CEO seeks the right balance to please passengers and Wall ... - Greenfield Daily Reporter http://t.co/LM3opxkxch,,2/16/2015 23:36,USA,Sydney
+2,1741189120,negative,1,Can't Tell,0.6503,Delta,,nesi_1992,,0,@
+etBlue is REALLnting to wait past 1am.,,2/16/2015 23:48,Washington DC,
+4,2059558914,negative,1,Late Flight,1,United,,brenduch,,0,@united the w2/16/2015 23:52,,Buenos Aires
+5,423759872,negative,1,Customer Service Issue,0.3451,Southwest,,VahidESQ,,0,@SouthwestAir its coo:00,Los Angeles CA,Pacific Time (US & Canada)
+6,1010978817,negative,1,Bad Flight,0.6707,United,,brenduch,,0,@united and don't h5 0:01,,Buenos Aires
+7,1241665536,negative,1,Late Flight,1,United,,CRomerDome,,0,@united I like delays less than you because I'm the one on the plane. Connect me with a voucher,,2/17/2015 0:05,Portland OR,Pacific Time (US & Canada)
+8,2038956033,negative,1,Customer Service Issue,0.3545,United,,JustOGG,,0,@united link to current status of flights/airports? Fly BWI-EWR-MCO this morning yet can't yet tell what any problems are except see snow.,,2/17/2015 1:18,Tweets = My Opinion,Eastern Time (US & Canada)
+9,1703440384,negative,1,Customer Service Issue,1,Southwest,,mrshossruns,,0,@SouthwestAir you guys there? Are we on hour 2 of our phone hold at 3am bc of volume or short staffing?,,2/17/2015 1:30,,Eastern Time (US & Canada)
+10,-951549952,negative,1,Customer Service Issue,0.6797,United,,feliciastoler,,0,@united I tried 2 DM it would not go thru... not sure why,[0.0 0.0],2/17/2015 1:32,New Jersey,Central Time (US & Canada)
+11,474492928,negative,0,Flight Booking Problems,0.6337,United,,markhlyon,,0,Wanted to ge5 -77.00423674],2/17/2015 1:54,Washington DC,Eastern Time (US & Canada)
+12,-419299328,negative,1,Bad Flight,0.3611,United,,DBsViewOnThings,,0,@united please see a flight attendant for what? Why isn't there enough room for over head bags? I carry on to save time!!!,,2/17/2015 2:10,,Atlantic Time (Canada)
+13,1535275011,negative,1,Customer Service Issue,0.6752,United,,ljsbrooks,,0,@united still waiting for a reply,,2/17/2015 2:23,,
+14,1174949888,neutral,1,,,United,,gwaki,,0,@united even though technically after I land I will be silver?,,2/17/2015 2:38,,Central Time (US & Canada)
+15,-410517503,neutral,1,,,US Airways,,ashenfaced,,0,@USAirways how's us 1797 looking today?,,2/17/2015 3:14,Brighton,
+16,-406712319,positive,1,,,Southwest,,rjp1208,,0,@SouthwestAir nice work on the update!,,2/17/2015 4:03,,Pacific Time (US & Canada)
+17,1514688512,negative,1,Lost Luggage,1,United,,hannahtorney,,0,@united i have items of sentimental value that I'm heartbroken are missing,,2/17/2015 4:33,Omagh/Belfast,London
+18,167927808,negative,1,Late Flight,0.6605,Southwest,,followkashyap,,0,@SouthwestAir We have been stuck in SJU for several hours and no one is answering here. Really tough to LUV SW. No response is bad.,,2/17/2015 4:35,USA,Eastern Time (US & Canada)
+19,381812736,neutral,1,,,Delta,,BritishAirNews,,0,@JetBlue CEO weighs profits flyers - @ChronicleHerald (registration) http://t.co/l2n0egHdgn,,2/17/2015 4:50,UK,Sydney
+20,-364756992,negative,1,Customer Service Issue,1,US Airways,,sevnthstar,,0,@USAirways @AmericanAir c Time (US & Canada)
+21,-1962409984,positive,1,,,Delta,,twinkletaters,,0,@JetBlue Thanks! Her flight leaves at 2 but she's arrinnah GA,
+22,-788385792,negative,1,Late Flight,0.7098,United,,MiKasuga,,0,@United is officially the worst most delayed and least helpful airline I have ever had the misfortune of flying on,,2/17/2015 5:26,New York NY,Eastern Time (US & Canada)
+23,1795317760,negative,1,Customer Service Issue,0.6364,Southwest,,WorkingWify,,0,@SouthwestAir won't answer their phones #HorribleService #NeverAgain #frustrated #AnswerThePhone,,2/17/2015 5:27,America,
+24,1875378176,negative,1,Customer Service Issue,0.7188,US Airways,,DonnyYardas,,0,@USAirways reservations had me on hold for 2 hours only to hang up...smh ????,,2/17/2015 5:38,Somewhere Creating,Eastern Time (US & Canada)
+25,-276287488,positive,0,,0,Delta,,TravellerLukose,,0,@JetBlue No worries. Delay was minor and dealt with nicely. It was captain of flight 2324 by the way.,,2/17/2015 5:40,,
+26,1820864513,neutral,0,,0,Southwest,,Tinygami,,0ine :(,,2/17/2015 6:07,Michigan,Tehran
+27,-1178439677,neutral,0,,0,United,,AsianAdidasGirl,,0,@united clicked on the link and got this? #confused http://t.co/xMAQcucWZl,[30.09009009 -95.64621813],2/17/2015 6:07,Houston,Central Time (US & Canada)
+28,725753858,neutral,0,,0,Southwest,,DubCook,,0,@SouthwestAir Guys we've got to do something about the inability to check in online for a)
+29,839393280,negative,1,Cancelled Flight,0.6466,Southwest,,kabell87,,0,@SouthwestAir flight was Cancelled Flightled and it won't let me rebook online. Wait time on phone is too long. Please help,,2/17/2015 6:13,,
+30,1065885696,neutral,0,,,Delta,,JulianBOGJB,,0,@JetBlue really caring??,,2/17/2015 6:21,Colombia,
+31,1803702273,negative,1,Flight Attendant Complaints,1,Southwest,,MMKuderka,,0,@SouthwestAir allows other passengers 2 harass u after their gate agents mistakeFURIOUS they are doing NOTHING about it &amp; my 6yo was scared,,2/17/2015 6:29,,Arizona
+32,843608064,negative,1,Flight Booking Problems,0.6709,Southwest,,kabell87,,0,@SouthwestAir  this is really unhelpful. Why can't I rebook online? http://t.co/N5O43sVl8i,,2/17/2015 6:30,,
+33,-1602076671,negative,1,Late Flight,1,Delta,,EBlaikie,,0,@JetBlue sitting on the plane in JFK waiting to take off doors are open catering is stocking up we are delayed but they couldn't be nicer,,2/17/2015 6:41,,
+34,-33423360,negative,1,Late Flight,1,Delta,,elowthers,,0,@JetBlue A flight delay due to pilots oversleeping is apparently an uncontrollable irregularity that is not eligible for delay compensation.,,2/17/2015 6:44,,
+35,-95944704,negative,1,Customer Service Issue,0.6963,US Airways,,MarkKersten,,0,.@USAirway 6:52,London UK,Quito
+36,-1417543680,positive,1,,,United,,scherzva,,0,@united New Apple cr?õpe amazing! Live from UA1207. Really nice crew too.  #AmericanAir has biscuits UA needs them 2 http://t.co/gZ9GqDT7Jj,,2/17/2015 7:07,??T: 34.188976-118.613497,Eastern Time (US & Canada)
+37,2114076672,negative,1,Cancelled Flight,0.6526,Southwest,,lucasdavidson,,0,@SouthwestAir on hold for 015 7:09,,Eastern Time (US & Canada)
+38,272777217,negative,1,Late Flight,0.7073,United,,wackydunks,,0,.@united call my work and tell them it's your fault I'm Late Flight,,2/17/2015 7:12,grand rapids michigan,Eastern Time (US & Canada)
+39,-1035853823,negative,1,Can't Tell,0.6843,Southwest,,Raven_TheGreat,,0,@SouthwestAir why have you guys jacked up the prices AFTER you said prices were going to be lowered? SMH,,2/17/2015 7:17,Dallas TX,Central Time (US & Canada)
+40,-1010688000,negative,1,Customer Service Issue,0.6838,US Airways,,CharNewsJunkie,,0,@USAirways I have been on hold with your Gold reservations line for OVER 3 HOURS now. Flight Cancelled Flightled. Trying to rebook.,,2/17/2015 7:40,Charlotte North Carolina,Eastern Time (US & Canada)
+41,-33026048,neutral,1,,,United,,Jamie_Fisher886,,0,@united how much does it cost to check in an additional bag? Traveling from newark to glasgow. Thank you :),,2/17/2015 7:47,Glasgow,London
+42,1065877505,negative,0,Late Flight,0.6716,US Airways,,sankeshw,,0,@USAirwa,2/17/2015 7:50,North West UK,Casablanca
+43,432570370,positive,0,,0,Southwest,,DaxJeter,,0,@SouthwestAir thanks do yall expect to be operational tomorrow out of Nashville?,,2/17/2015 7:53,NashvilleTN,
+44,2026377216,negative,1,Customer Service Issue,0.6721,Southwest,,CBSsoxfan,,0,@SouthwestAir husband on hold 2.5 hrs got disconnected!New wait 30 min. Can't confirm res due to the fact he booked on line! Nuts!,,2/17/2015 7:55,Rhode Island,
+45,-158826496,negative,1,Flight Attendant Complaints,1,United,,rachaeldoyle21,,0,@united Broken entertainment system on my 8 hour NYC flight terrible cabin crew service and online complaint form won't work #hopeless,,2/17/2015 7:55,Portsmouth UK,
+46,-158838784,negative,1,longlines,0.3469,United,,lauralscott,,0,@united las,2/17/2015 7:56,??T: 40.976702-72.210688,Quito
+47,-574463998,negative,0,Customer Service Issue,0.6701,Southwest,,kukalong,,0,@SouthwestAir Hoping you answer the phone today?,,2/17/2015 8:02,Phoenix AZ,Arizona
+48,-1732116476,negative,1,Customer Service Issue,0.6966,Southwest,,sahandmirza,,0,@SouthwestAir been on hold for &gt;30 minutes about my Cancelled Flightled flight. Still not talked to anyone and flight is soon. What gives?,,2/17/2015 8:03,San Francisco CA,
+49,-595460095,neutral,1,,,Delta,,JetBlueNews,,0,@JetBlue CEO weighs profits flyers - @ChronicleHerald (registration) http://t.co/9vKj9S7jrM,,2/17/2015 8:05,USA,Sydney
+50,-1929240576,negative,1,Bad Flight,1,United,,tcfitz3,,0,@United - Ridiculous to fly outdated 757s anywhere much less btwn IAH and SFO. No power ports no  Wifi no personal entertainment. TORTURE,,2/17/2015 8:05,Houston,Central Time (US & Canada)
+51,1002577920,negative,1,Late Flight,0.6947,Southwest,,PorterHaney,,0,@SouthwestAir the last 4 times I've arrived @LASairport our gate has been blocked by a slow to depart plane leading to 30-60 min delays,,2/17/2015 8:09,Las Vegas,Pacific Time (US & Canada)
+52,486670337,negative,1,Can't Tell,0.3587,United,,OHaraAmber,,0,@united what if business as usual meant dropping the bully mentality and fostering inspiration for a greater business #EmployeeRelations,,2/17/2015 8:09,WheatridgeColo,
+53,-502767616,neutral,0,,0,Southwest,neutral,RachFee,,0,@southwestair - kind of early but any idea when dates through the first week of sept will come available?,,2/17/2015 8:11,London Ontario Canada,Central Time (US & Canada)
+54,-1765273600,negative,1,Bad Flight,0.337,US Airways,,Jack_Kairys,,0,@USAirways your service has been awful in Boston and I had to pay 25 extra dollars than I was supposed too I am very dissatisfied #mad,,2/17/2015 8:11,,
+55,1992847360,neutral,1,,,Delta,,Karimilrodz,,0,@JetBlue I hear that the new thing in your planes are the Fly-Fi. How I can check if the flight that Im going to take have it?,,2/17/2015 8:12,Puerto Rico,
+56,-1874329600,negative,1,Customer Service Issue,1,Southwest,,MyMissus,,0,@SouthwestAir Guys for real. I've been on hold for 4+ hours including one hangup. Please have someone reach out so I can get my $ back.,,2/17/2015 8:14,Brooklyn NY,Eastern Time (US & Canada)
+57,-2084044796,negative,1,Bad Flight,0.3476,US Airways,,Champa24,,0,@USAirways great job today In ruining 45 people's vacation. Thanks to your incompetent pilot and staff we have all now missed our flights,,2/17/2015 8:15,,
+58,-1933025280,negative,1,Customer Service Issue,0.6438,Southwest,,mrs_laurelanne,,0,@SouthwestAir can't update my flight online bc it's been Cancelled Flighted twice already. Going on hour 2 on hold.,,2/17/2015 8:15,,
+59,-1220411392,negative,0,Late Flight,0.6404,Southwest,,DaxJeter,,0,8:16,NashvilleTN,
+60,700985344,negative,0,Customer Service Issue,0.7201,Delta,,Darshan7Patel,,0,@JetBlue please provide me your direct email for me to explain.,,2/17/2015 8:19,,
+61,1321746432,negative,1,Flight Booking Problems,1,Southwest,,portugrad,,0,@cagoland Area,Central Time (US & Canada)
+62,1955086336,positive,1,,,Southwest,,RachFee,,0,@SouthwestAir Beautiful thanks a ton!,,2/17/2015 8:22,London Ontario Canada,Central Time (US & Canada)
+63,-2146947071,negative,1,Customer Service Issue,0.6674,Southwest,,kristaallison28,,0,@SouthwestAir Cancelled Flightled my flight out of BNA today. Been on hold for an hour. ???ˇ #frustrated!,,2/17/2015 8:24,orlando,
+64,-1240956927,neutral,1,,,Southwest,,momof43s,,0,É??@SouthwestAir:Southwest mobile boarding passes15 8:26,,Eastern Time (US & Canada)
+65,-880656384,neutral,1,,,Southwest,,matthewhyah,,0,@SouthwestAir Can you link the article where it says the routes and what times the routes are likely to be? Like TUL-DAL 1:00PM - 7 None,,2/17/2015 8:26,USA,
+66,-2076024832,negative,1,Cancelled Flight,0.6511,US Airways,,DaFuente,,0,@USAirways IÉ??ve had my flight Cancelled Flightled twice now US & Canada)
+67,398999552,negative,1,Cancelled Flight,0.6774,US Airways,,LucyALloyd,,0,. @USAirways It's been Cancelled Flighted. Your SM response is slow.,,2/17/2015 8:27,Downers Grove,Central Time (US & Canada)
+68,1233281026,negative,0,Cancelled Flight,0.6492,Southwest,,challemann,,0,@SouthwestAir Hi-My flight (BNA to LGA) was Cancelled Flighted this morning--#1814. Looks like other flights out of BNA are taking off. Any chance?,,2/17/2015 8:28,New York,Eastern Time (US & Canada)
+69,-566095872,negative,1,Customer Service Issue,1,US Airways,,CharNewsJunkie,,0,@USAirways Almost 4 hours and coin now. Understand higher call volume but this is unacceptable.,,2/17/2015 8:28,Charlotte North Carolina,Eastern Time (US & Canada)
+70,-1761079296,negative,1,Customer Service Issue,1,Southwest,,ClaudddiaVS,,0,@SouthwestAir I need updates on my flights 464 &amp; 3574. I have been on hold for over 2 hours.,[30.35571967 -87.27675562],2/17/2015 8:28,Northridge CA,Pacific Time (US & Canada)
+71,1782738945,negative,1,Customer Service Issue,1,Southwest,,misskennedys,,1,@SouthwestAir has the WORST customer service of any airline I've ever flown.,,2/17/2015 8:30,,Central Time (US & Canada)
+72,1405227008,neutral,1,,,Southwest,,dontbhave,,0,@SouthwestAir Where should I fly by May 3rd? Plz advise.,,2/17/2015 8:30,Broomfield CO,Mountain Time (US & Canada)
+73,1116229633,neutral,0,,0,Southwest,,scottglass70,,0,@SouthwestAir trying to get through to cust relations. Is there another # to use?,,2/17/2015 8:30,Midlothian Virginia,
+74,-146640894,positive,0,,,Southwest,,christooma,,0,@SouthwestAir finally!,,2/17/2015 8:31,Nashville TN,Central Time (US & Canada)
+75,-419299326,positive,1,,,Southwest,,spstpierre,,0,@SouthwestAir + @twitter  = outstanding customer service!  Thank you!,,2/17/2015 8:31,Nashville TN,Mountain Time (US & Canada)
+76,-100118528,negative,1,Customer Service Issue,0.6509,Southwest,,faithfabulous,,0,@SouthwestAir tried online and told I must call b/c of modifications to my reservation. Been on hold for almost 2 hours.,,2/17/2015 8:33,District of Corruption,Quito
+77,-347975680,negative,1,Late Flight,1,Southwest,,deantak,,0,@SouthwestAir discount for three delays?,,2/17/2015 8:33,Silicon Valley,Pacific Time (US & Canada)
+78,-1228779520,negative,1,Customer Service Issue,0.6701,United,,TheSapphireLife,,0,@united THRILLED to have my carry-on checked against my will by two nasty gate agents only to see an entire empty bin when I boarded last...,,2/17/2015 8:35,Boston MA,
+79,1741172736,negative,0,Customer Service Issue,0.6907,US Airways,,DAngel082,,0,@USAirways can't even get on hold to wait to speak to someone-awesome,,2/17/2015 8:35,New York,
+80,-620601344,positive,0,,,Delta,,JetBlueNews,,0,@JetBlue to offer service from Daytona Beach to New York - Albany Business Review http://t.co/dUhBJ41jHx,,2/17/2015 8:36,USA,Sydney
+81,-1950207996,negative,0,Customer Service Issue,0.3344,United,,mtezna,,0,@uniinia,Eastern Time (US & Canada)
+82,1208487937,negative,1,Customer Service Issue,1,Southwest,,GameDaySweetie,,0,@SouthwestAir almost 2 hours on hold 2 hours of my life I can't get back.... Thanks http://t.co/IyUZM2PUVS,,2/17/2015 8:36,Nashville TN,
+83,-66555904,neutral,0,,0,US Airways,,TullamoreEims,,0,@USAirways You need to contact me ASAP. #Furious,,2/17/2015 8:39,Dublin Raised | Brooklyn Based,Dublin
+84,638062592,negative,1,Flight Booking Problems,1,Southwest,,jjenreich,,1,"@SouthwestAir too bad I'm ge:39,Fort Lauderdale,Central Time (US & Canada)
+85,-1475858432,negative,1,Customer Service Issue,0.6809,Delta,,JessonaJourney,,0,@JetBlue Is today's JetBlue Flight 918 (NYC-&gt;BOS) delayed? My app says on time and the website says it's not...,,2/17/2015 8:39,New York,Eastern Time (US & Canada)
+86,1363685377,negative,0,Can't Tell,0.3533,US Airways,,Jack_Kairys,,0,@USAirways it was supposed to be a carry on and in Pittsburgh  coming to Boston it was a carry on,,2/17/2015 8:39,,
+87,591556608,negative,0,Bad Flight,0.3416,United,,BhutanOrient,,0,@united didn't get her name. She was not in our group. She was sitting behind us. Think it was window seat #40? We only overheard...,,2/17/2015 8:40,Bhutan,Pacific Time (US & Canada)
+88,-708300798,negative,1,Lost Luggage,1,US Airways,,juliadavis,,0,Yes I filed a report in Atlanta. My bags are in Charlotte NC. 24 hours Late Flightr and still can't find my luggage ... @USAirways,,2/17/2015 8:40,Atlanta Georgia,Eastern Time (US & Canada)
+89,998400001,positive,0,,0,Southwest,,tonyapoe,,0,@SouthwestAir  Thank you.,,2/17/2015 8:40,,Mountain Time (US & Canada)
+90,738725888,negative,1,Customer Service Issue,1,US Airways,,jameypricephoto,,0,@USAirways it takes a month?,,2/17/2015 8:40,,Eastern Time (US & Canada)
+91,2080907264,positive,0,,,US Airways,,Forsyth_Factor,,0,@USAirways thanks for the reply hoping everything is cleared up in Charlotte by Monday,,2/17/2015 8:40,Anderson,Indiana (East)
+92,1250451456,negative,1,Bad Flight,0.6201,US Airways,,TheTaxDiva,,0,@USAirways @AmeiHoustonDCHouston,Central Time (US & Canada)
+93,-922591232,neutral,1,,,Delta,,gigirey1,,0,@JetBlue what's the link for #FlyFi,,2/17/2015 8:42,,
+94,440557568,negative,1,Can't Tell,1,United,,kat_volk,,0,.@united nothing apparently. I've flown w/ you 4 time
+95,-1975386112,neutral,1,,,Virgin America,,PlayjtLV,,0,É??@VirginAmerica: Book out of town with fares from $59/way (+restr). http://t.co/xRdTOV7nl8 http://t.co/4Y78byAckcÉ?ù @JenniferDawnPro,[36.08546367 -115.31814055],2/17/2015 8:43,Las Vegas NV,
+96,780681217,negative,1,Customer Service Issue,0.6577,US Airways,,crshipferling,,0,@USAirways your chairmans phone is down. what other number can i use?,,2/17/2015 8:43,??T: 35.029717-80.9659,
+97,1351106560,negative,1,Late Flight,0.6787,US Airways,,JasonPlizga,,0,@USAirways How soon is possible? I boarded the plane the 1st time at 6:30 am and it is now after 11:30 am and I'm still where I started.,,2/17/2015 8:44,,
+98,1988640768,negative,1,Late Flight,1,US Airways,,DAngel082,,0,@USAirways  well its 11:45am and just got an email that my 11am flight is delayed-thats not right,,2/17/2015 8:45,New York,
+99,1640505344,negative,1,Customer Service Issue,1,United,,mlipschits,,0,@united why am i mot getting my refund?,,2/17/2015 8:46,Jerusalem-London-Antwerp,
+100,1648914432,neutral,0,,0,Delta,,heyheyman,,0,@JetBlue Can't view seat selection/change seat for flight tomorrow. Can you look into this?,,2/17/2015 8:46,Boston MA,Eastern Time (US & Canada)
+101,-142454784,negative,1,Bad Flight,1,Southwest,,mal0877,,0,@Southwest,2/17/2015 8:47,,
+102,-188219389,negative,1,Cancelled Flight,0.6838,Southwest,,RichieGlod,,0,@SouthwestAir do you not try to get customers to their destinations? No help to get on another airline if you had no flights for 3 days?,,2/17/2015 8:47,,
+103,-548921344,positive,0,,,US Airways,,DAngel082,,0,@USAirways  thanks I hope I get to my destination,,2/17/2015 8:47,New York,
+104,-50200576,positive,1,,,Virgin America,,BBahreman,,4,@VirginAmerica Flying LAX to SFO and after looking at the awesome movie lineup I actually wish I was on a long haul.,,2/17/2015 8:48,Living in a Gangsters Paradise,Pacific Time (US & Canada)
+105,-1660416000,positive,1,,,Delta,,JessonaJourney,,0,@JetBlue Thank you!,,2/17/2015 8:48,New York,Eastern Time (US & Canada)
+106,-494387200,negative,0,Can't Tell,0.3609,United,,richardkerris,,0,@united Bad coffee but the juice is ok. #GetPhilz @ United Terminal SFO Airport http://t.co/Sg7IQqFVsO,[37.62006843 -122.38822083],2/17/2015 8:48,Los Gatos CA ,
+107,-2134376448,positive,1,,,US Airways,,northerninsgr,,0,@USAirways please give Tara G a pat on the back and praise.  She was very very helpful.  She is at PHL member lounge,,2/17/2015 8:49,Maine,
+108,209850369,neutral,1,,,Delta,,kbosspotter,,0,@JetBlue I have a internal bleed in my foot and I am flying next Tuesday what should I. Do :( these. Leeds come randomly. I,,2/17/2015 8:49,Logan International Airport,Atlantic Time (Canada)
+109,419958784,neutral,1,,,Southwest,,city2countryTN,,0,@SouthwestAir do you think the flights out of Nashville will be Cancelled Flighted tomorrow?,,2/17/2015 8:49,TN,
+110,2059546624,positive,1,,,Delta,,gigirey1,,0,@JetBlue thank you!! Miss you all so so much!! Is this the link to the blog? Or has that changed?,,2/17/2015 8:49,,
+111,1321746432,negative,1,Cancelled Flight,1,US Airways,,laura_crom,,0,@USAirways I got up at 2 am for a 5 am flight from bos to Charlotte which I found was Cancelled Flightled once I got to the gate (1),,2/17/2015 8:49,boston,Quito
+112,1895972864,negative,1,Late Flight,1,United,,alvintylaw,,0,@united did not let me get on the IAH-HNL direct. Now weather delay for my SFO leg. Stop being reactive and be proactive!,,2/17/2015 8:49,Island of Oahu Hawaii,
+113,809635840,neutral,0,,,Delta,,BritishAirNews,,0,@JetBlue's new CEO seeks the right balance to please passengers and Wall ... - Daily Journal http://t.co/w8MTmSP2RY,,2/17/2015 8:50,UK,Sydney
+114,-1501421568,negative,1,Customer Service Issue,1,Delta,,MakebaMakeba,,0,@JetBlue oh hell no. I'm not waiting again to get hung up on after speaking to 2 #rudeservice people,,2/17/2015 8:50,,
+115,-1442308093,neutral,0,,0,US Airways,,laura_crom,,0,@USAirways on your website ato
+116,407404544,negative,1,longlines,0.6989,US Airways,,Champa24,,0,@USAirways no we haven't because we've been in the same line at the service desk for an 1hr and 1/2 now in the same spot.,,2/17/2015 8:51,,
+117,1460162560,neutral,1,,,Southwest,,jcfly123,,0,@SouthwestAir trying to fly out of Nashville tomorrow. How is it looking?,,2/17/2015 8:51,Nashville TN,Mountain Time (US & Canada)
+118,-1626853376,neutral,0,,0,Virgin America,,Todd1HHD,,0,@VirginAmerica was wondering if you guys recieved my dm and we're able to potentially respond asap,,2/17/2015 8:52,Chicago,Central Time (US & Canada)
+119,248008704,negative,0,Flight Attendant Complaints,0.3416,Southwest,,SkySmiles737,,0,@SouthwestAir kudos to the #RSW CS crew for re-routing PAX to alleviate Over sale due to down graded EQP 800 now 500,,2/17/2015 8:52,,
+120,248004609,negative,1,Customer Service Issue,0.3596,US Airways,,TheTaxDiva,,0,@USAirways I did and it's been a disaster. You had me sitting on the runway only to bring the plane back to the gate smh,,2/17/2015 8:52,MiamiHoustonDCHouston,Central Time (US & Canada)
+121,-385744896,neutral,0,,0,Delta,,kbosspotter,,0,@JetBlue nnational Airport,Atlantic Time (Canada)
+122,-1991770112,negative,1,Lost Luggage,1,US Airways,,TheTaxDiva,,0,@USAirways you have,Central Time (US & Canada)
+123,-871874560,negative,1,Customer Service Issue,1,US Airways,,TheTaxDiva,,0,@USAirways I expect soada)
+124,-263708672,negative,1,Customer Service Issue,1,US Airways,,TheTaxDiva,,0,@USAirways your customer service is horrible,,2/17/2015 8:53,MiamiHoustonDCHouston,Central Time (US & Canada)
+125,-637403136,negative,1,Cancelled Flight,0.6704,Southwest,,onestitchshort,,0,@SouthwestAir Flight Cancelled Flightled reFlight Booking Problems online has not worked on my second round of hold (3 hrs now). Any other options?,,2/17/2015 8:53,Texas,Central Time (US & Canada)
+126,1656889344,neutral,1,,,Southwest,,deantak,,0,@SouthwestAir sent,,2/17/2015 8:54,Silicon Valley,Pacific Time (US & Canada)
+127,541196290,negative,1,Customer Service Issue,1,Delta,,MakebaMakeba,,0,@JetBlue busy due to storm but customer service should always be on point. More so now than ever #getittogether,,2/17/2015 8:54,,
+128,176701441,negative,0,Late Flight,0.6515,US Airways,,laura_crom,,0,@USAirways and it still says it's on time on your website btw,,2/17/2015 8:54,boston,Quito
+129,-310222848,negative,1,Flight Booking Problems,0.6611,US Airways,,AlexRolek,,0,@USAirways been trying to talk with a dividend miles rep for 2 days now. I have been holding for over 2 hours each day. What are my options?,,2/17/2015 8:54,San Diego CA,
+130,403202048,negative,1,Customer Service Issue,0.6275,US Airways,,itsjustdoc,,0,@USAirways thank you for blowing my vacation. Couldn't get me anywhere today to make my reservation and also lost 2 bags of mine!,,2/17/2015 8:55,Ohio,Quito
+131,-155037694,negative,1,Customer Service Issue,1,Southwest,,matthewhyah,,0,@Sutes time,,2/17/2015 8:56,USA,
+132,-1391955968,positive,0,,,US Airways,,imayfan,,0,@USAirways thanks,,2/17/2015 8:56,,Eastern Time (US & Canada)
+133,-800575488,neutral,0,,,United,,CWWMUK,,0,@united Filled in the form you sent the link to on 29.1.15 and then either 9 or 10.2.15,,2/17/2015 8:56,North West of England,
+134,1502093313,negative,1,Cancelled Flight,0.6959,US Airways,,LucyALloyd,,0,@USAirways No kidding. Oy.,,2/17/2015 8:56,Downers Grove,Central Time (US & Canada)
+135,851599361,negative,1,Customer Service Issue,1,Delta,,MakebaMakeba,,0,@JetBlue my request has nothing to do with rescheduling. But customer service has such a bad attitude today. #badservice,,2/17/2015 8:56,,
+136,319311872,negative,1,Lost Luggage,1,US Airways,,itsjustdoc,,0,@USAirwaify,,2/17/2015 8:56,Ohio,Quito
+137,1728184320,negative,1,Customer Service Issue,1,Southwest,,laurenaddell,,0,@SouthwestAir I've)
+138,-1040035840,negative,1,Customer Service Issue,1,US Airways,,Jamayka,,0,@USAirways tried twice today on hold for 30 min ea (US & Canada)
+139,-1308467200,positive,1,,,United,,mchooyah,,0,@united Thank you for the new Club at O'Hare. Very comfortable. You made the difficult weather days proficient and enjoyable.,,2/17/2015 8:58,,Mazatlan
+140,2139623424,negative,1,Customer Service Issue,0.6889,US Airways,,portugrad,,0,@USAirways Thanks for the info but have been trying for over 24hrs and no luck. Flight dep. Today. Need 2 change 2 tomorrow or Thursday,,2/17/2015 8:58,Chicagoland Area,Central Time (US & Canada)
+141,-423088128,negative,1,Lost Luggage,1,US Airways,,itsjustdoc,,0,@USAirways I didn't even leave the airport and you sent 2 of my bags to Philadelphia!,,2/17/2015 8:58,Ohio,Quito
+142,658644993,negative,1,Customer Service Issue,1,Southwest,,eguroff,,0,"@SouthwestAir haveville TN,Central Time (US & Canada)
+143,-1111351296,neutral,0,,0,United,,napsareforkids,,0,@united all day travel. #swag #ijustwanttosleep,,2/17/2015 8:59,West Palm Beach ,
+144,646082560,negative,0,Can't Tell,0.3456,United,,meracross,,0,@united's first-class #cockup http://t.co/oh7CFv7DHR,,2/17/2015 9:00,Toronto,Pacific Time (US & Canada)
+145,-1048031232,positive,0,,,US Airways,,ShiningLghtPE,,0,@USAirways will do. Hoping for a voucher for a future flight #Optimistic,,2/17/2015 9:00,Pittsburgh Pa,Eastern Time (US & Canada)
+146,831000576,negative,1,Customer Service Issue,1,US Airways,,TullamoreEims,,0,@USAirways This is dating ban Based,Dublin
+147,1011372033,negative,1,Late Flight,0.3487,United,,CanadianCowgirl,,0,@united Gold Star for united- change my otia,Eastern Time (US & Canada)
+148,-2042085376,positive,0,,,Delta,,ClassyMalick,,0,@JetBlue @EllaHenderson omg!  Wish I had a flight today!  Haha there's always next time!  Have fun at #LFT5,,2/17/2015 9:02,NY,
+149,1061711873,negative,0,Customer Service Issue,0.6468,Southwest,,TJGoertz,,0,@SouthwestAir Trying to get through by phone to confirm that funds from a Cancelled Flightled reservation can still be used in the future. Can u help?,,2/17/2015 9:02,Toronto,Eastern Time (US & Canada)
+150,-2138554366,negative,0,Customer Service Issue,0.3278,US Airways,,DAngel082,,0,@USAirways  to arrive the plane I'm sitting on needs to take off...wish someone would tell us what the holdup is,,2/17/2015 9:02,New York,
+151,159514625,neutral,0,,0,United,,BhutanOrient,,0servation.,,2/17/2015 9:03,Bhutan,Pacific Time (US & Canada)
+152,-1992138752,negative,1,Customer Service Issue,1,Southwest,,elliemybellie,,0,@SouthwestAir injured at check in yesterday. U told me to go to dr. on hold with SWA for over hour trying to talk with someone. suggestions?,,2/17/2015 9:04,,
+153,1216897025,negative,1,Late Flight,0.6806,United,,applecor2,,0,@united sat at airport for 5 hrs still sitting at gate..  Sigh,,2/17/2015 9:05,,Mountain Time (US & Canada)
+154,1854410752,negative,1,Customer Service Issue,1,Southwest,,blackrivervaper,,0,@SouthwestAir just disconnected my call after 2.5 hours without even speaking to me. #octaviannightmare,,2/17/2015 9:05,,
+155,1573392384,negative,1,Cancelled Flight,0.672,US Airways,,Kyle_Clarke528,,0,@USAirwao,Central Time (US & Canada)
+156,-1769848832,negative,1,Customer Service Issue,0.3684,Southwest,,mal0877,,0,@SouthwestAir thank9:05,,
+157,-306044926,neutral,1,,,Southwest,,theokatzman,,2,@SouthwestAir any chance of adding LAX-&gt;JFK direct any time in the future?,,2/17/2015 9:06,Lawrsh Ainjellush CA,Eastern Time (US & Canada)
+158,843587584,negative,1,Customer Service Issue,0.3463,United,,MiKasuga,,0,@united No but u cld explain how such a disorganized and inefficient company w surly and obviously unhappy employees stays in business.,,2/17/2015 9:06,New York NY,Eastern Time (US & Canada)
+159,583155714,neutral,0,,0,Delta,,heykait?????,,2/17/2015 9:06,california É??ã?è,Pacific Time (US & Canada)
+160,-184389632,negative,1,Flight Attendant Complaints,0.6812,United,,BhutanOrient,,0,@united +what took me aback was the response by the flight attendant who put the responsibility squarely back on passenger's shoulders. +,,2/17/2015 9:06,Bhutan,Pacific Time (US & Canada)
+161,-87551998,positive,0,,,Delta,,NMSpedaliere,,0,@JetBlue she was a phone agent pls do! Peggy was pleasant informative and delivered. É?êã?èÉ?êã?èÉ?êã?èÉ?êã?èÉ?êã?è,[40.78521842 -74.07232899],2/17/2015 9:06,Old Greenwich CT,Eastern Time (US & Canada)
+162,-473415679,negative,1,Customer Service Issue,1,US Airways,,tamajared,,0,@USAirways The phone line disconnects. How can I be in the queue to be answered when the phone line simply disconnects when I call?,,2/17/2015 9:08,DC / MIA,Quito
+163,1417822208,negative,1,Flight Attendant Complaints,0.7033,United,,BhutanOrient,,0,@united BTW is it true you have to remind flight staff after checking in even after indicating meal prefer on your reservation? +,,2/17/2015 9:08,Bhutan,Pacific Time (US & Canada)
+164,-485986304,negative,1,Flight Booking Problems,0.6809,US Airways,,AndreybohdanY,,0,@USAirways That is not an excuse to have such a poor website Flight Booking Problems options! My yearly vacation is about to fall through ubetter do smth!,,2/17/2015 9:08,,
+165,-737640447,neutral,1,,,US Airways,,JasonPlizga,,0,@USAirways flight #3900 fro ORF to PHL.,,2/17/2015 9:08,,
+166,-1878495232,neutral,0,,,Southwest,,challemann,,0,@SouthwestAir Got it thanks. Any insight into what will happen tomorrow?,,2/17/2015 9:08,New York,Eastern Time (US & Canada)
+167,432156672,negative,1,Flight Attendant Complaints,1,United,,BhutanOrient,,0,@united + that's the gist of what the flight attendant told her.,,2/17/2015 9:09,Bhutan,Pacific Time (US & Canada)
+168,-482209792,negative,1,Customer Service Issue,1,Southwest,,iBrianWeaver,,0,@SouthwestAir I've been on hold for an hour &amp; a half trying to change my flight to BNA. Not very happy with customer service right now!!!!!!,,2/17/2015 9:09,Nashville TN,Central Time (US & Canada)
+169,-50188287,positive,0,,0,Delta,,leighericam,,0,@JetBlue well lucky I only fly JB..I guess I would be even more squished on any other airline ????,,2/17/2015 9:10,NYC | NOLA  ,
+170,1275215872,negative,1,Customer Service Issue,1,US Airways,,ceowens5,,0,@USAirways still crickets from customer service.,,2/17/2015 9:10,Seattle WA,
+171,696385538,positive,1,,,United,,ClaudiaStClair,,0,@united I appreciate the follow up.,[40.35805521 -111.78241283],2/17/2015 9:11,Salt Lake City Utah,Mountain Time (US & Canada)
+172,255987713,positive,1,,,United,,jsumiyasu,,ght is still home!,,2/17/2015 9:12,So Cal,Pacific Time (US & Canada)
+173,1711423488,negative,1,Late Flight,1,Delta,,alsonmusical,,0,@JetBlue Got flight reschedule to flight form PIT to FLL and our flight had mechanical problems so we were delayed an hour Missed my connect,,2/17/2015 9:12,Yauco Puerto Rico,Central Time (US & Canada)
+174,-620216320,negative,1,Cancelled Flight,1,US Airways,,simuLate Flightthis,,0,@USAirways Flight 2069 from JFK to Charlotte then 3750 from Charlotte to Birmingham. 2 previous flights to HSV were Cancelled Flightled.,,2/17/2015 9:13,Queens,Quito
+175,-1555951616,positive,0,,0,United,,BhutanOrient,,0,"@u,,2/17/2015 9:13,Bhutan,Pacific Time (US & Canada)
+176,-1824366592,negative,1,Customer Service Issue,0.6836,Southwest,,Loley9,,0,@SouthwestAir been on hold for over an hour.....not cool you guys.,,2/17/2015 9:13,Dallas TX,Central Time (US & Canada)
+177,-821542912,negative,1,Late Flight,1,US Airways,,simuLate Flightthis,,0,@USAirways Now I am probably going to miss my connection in Charlotte so I will have to drive home for the funeral.,,2/17/2015 9:13,Queens,Quito
+178,939671553,negative,1,Customer Service Issue,1,Delta,,Darshan7Patel,,0,@JetBlue I do not want to deal with your customer service agents with no practical knowledge.Provide me with a direct contact.,,2/17/2015 9:14,,
+179,222842880,neutral,0,,0,Delta,,thegayngler,,0,@JetBlue Ok great thanks! Itic Time (Canada)
+180,1023561728,negative,0,Can't Tell,0.3333,Delta,,alsonmusical,,0,@JetBlue should i continue?,,2/17/2015 9:14,Yauco Puerto Rico,Central Time (US & Canada)
+181,-1689751552,negative,1,Customer Service Issue,0.6474,Southwest,,KayyRahh_xo,,0,@SouthwestAir disappointed with customer service right now my flight was only one Cancelled Flightled at my airport &amp; now I'm losing 2 days from trip,[41.79493709 -71.48004413],2/17/2015 9:15,,Eastern Time (US & Canada)
+182,759304194,neutral,0,,0,S,,2/17/2015 9:15,St. Louis,Central Time (US & Canada)
+183,-108523519,neutral,0,,0,Southwest,,joepalko,,0,@SouthwestAir damn weather messing up everything #serenitynow,,2/17/2015 9:15,Delray Beach FL,Eastern Time (US & Canada)
+184,-1593298943,neutral,1,,,Southwest,,laurenproberts,,0,@SouthwestAir - any update on flights in to BNA today?,,2/17/2015 9:15,Nashville TN,
+185,1929523200,negative,1,Cancelled Flight,0.6875,United,,SeanHerwaldt,,0,.@united we rebooked. But @casleah and I had to split up and take different flights because a pilot ran out of hours? Frustrating.,,2/17/2015 9:15,Kanasa City,Central Time (US & Canada)
+186,1267216384,positive,1,,,Southwest,,MrDavidLombardi,,0,@SouthwestAir Great job!! Looking forward to my next trip being able to use this new feature!,,2/17/2015 9:16,AZ - USA,Arizona
+187,-171438080,negative,0,Customer Service Issue,0.6916,US Airways,,Dazoulai,,0,@USAirways Why is there no contact email for customer complaints?,,2/17/2015 9:16,,
+188,-74960896,negative,1,longlines,0.6909,US Airways,,indystevens,,0,@USAirways hundreds of people in line and less than half the desks being manned at CLT. Help?,,2/17/2015 9:17,,Quito
+189,-1899495424,negative,1,Customer Service Issue,1,US Airways,,portugrad,,0,@USAirways I can't believe that ytral Time (US & Canada)
+190,705167360,neutral,1,,,Delta,,seattleprime,,0,@JetBlue @EllaHenderson Ah! Wish I was there! Good luck!,,2/17/2015 9:17,Seattle,Pacific Time (US & Canada)
+191,-1643626496,negative,1,Can't Tell,1,US Airways,,erickofiejones,,0,@USstern Time (US & Canada)
+192,-1908269056,negative,1,Can't Tell,1,United,,BhutanOrient,,0,@united + besides no small degree of sime (US & Canada)
+193,-1257766912,negative,1,Late Flight,1,Delta,,emilymcnulty,,0,@JetBlue why is my flight delayed 2.5 hours. This is insane. Every other flight has made it to NYC.,,2/17/2015 9:17,,Eastern Time (US & Canada)
+194,21508096,neutral,1,,,United,,mosesfreund,,0,@united i need my confirmation number! Can you give it to me?,,2/17/2015 9:18,,
+195,-1014472704,negative,1,Can't Tell,0.7065,Southwest,,81FSUnole,,0,. @SouthwestAir condescension must be a quality your co rewards. Your tone reeks of it,,2/17/2015 9:18,Chapel Hill NC,Eastern Time (US & Canada)
+196,-1693966336,negative,1,Cancelled Flight,1,US Airways,,erickofiejones,,0,@USAirways They charged me for a flight they Cancelled Flightled unbelievable and unheard of,,2/17/2015 9:18,,Eastern Time (US & Canada)
+197,-247324671,negative,1,Cancelled Flight,1,United,,shannonhannon,,0,@united Step 1: Cancelled Flight flight.
+198,344064001,negative,1,Customer Service Issue,1,US Airways,,Jamayka,,0,@USAirways when I call it says y'all are too busy and e (US & Canada)
+199,-58179584,neutral,1,,,US Airways,,portugrad,,0,@USAirways How can I change without penalty and not have to call customer service,,2/17/2015 9:19,Chicagoland Area,Central Time (US & Canada)
+200,537014272,positive,1,,,United,,BhutanOrient,,0,@united @FlyANA_official pleasantly surprised to find ANA has made major upgrades on their transpacific route in flights planes and service,,2/17/2015 9:19,Bhutan,Pacific Time (US & Canada)
+201,977403904,neutral,0,,0,Delta,,Vinny_Espinosa,,0,@JetBluda)
+202,-16232448,negative,1,Cancelled Flight,0.6995,US Airways,,erickofiejones,,0,@USAirways Just contaced EYEWITNESS NEWS about the ripoff the Cancelled Flighted now they want me to pay,,2/17/2015 9:20,,Eastern Time (US & Canada)
+203,-553115648,negative,1,Customer Service Issue,1,Southwest,,KatieAmmon,,0,@SouthwestAir I need to reschedule a flight and I've been on hold for almost an hour. This is ridiculous. Is there a best number to call?,,2/17/2015 9:20,,Eastern Time (US & Canada)
+204,2101501952,positive,1,,,Southwest,,chaseagiles,,0,@SouthwestAir Great job with the Passbook integration! ItÉ??ll really help streamline the commute to San Fran! ????É?????˝É??,[0.0 0.0],2/17/2015 9:21,Midvale UT,Mountain Time (US & Canada)
+205,-95944704,negative,1,Cancelled Flight,1,Southwest,,Masterpeacefull,,0,@SouthwestAir @challemann flying to LGA in the dead of winter? #jvstatus EWR &amp; JFK is always the intelligent option.,,2/17/2015 9:21,,Central Time (US & Canada)
+206,-532533248,neutral,0,,,United,,BhutanOrien,2/17/2015 9:21,Bhutan,Pacific Time (US & Canada)
+207,-343375870,positive,1,,,Southwest,,andicrawford,,0,.@SouthwestAir you've got a mess here at DTW but your staff is doing great.,,2/17/2015 9:22,Michigan,Eastern Time (US & Canada)
+208,-1006489600,neutral,0,,0,Virgin America,,waytogopdx,,0,@VirginAmerica still waiting to see  @Starryeyes_Dev_  ????,,2/17/2015 9:22,Lake Oswego Oregon,Pacific Time (US & Canada)
+209,570970112,negative,1,Cancelled Flight,0.3431,US Airways,,erickofiejones,,0,@USAirways I nee015 9:22,,Eastern Time (US & Canada)
+210,1862406144,negative,1,Cancelled Flight,1,United,,AndrewBarco1,,0,@united feck guys. Strn Time (US & Canada)
+211,596123648,neutral,0,,,Southwest,,KatieAmmon,,0,@SouthwestAir F5R3ZZ,,2/17/2015 9:23,,Eastern Time (US & Canada)
+212,-16224254,neutral,1,,,US Airways,,lauras_music,,0,@USAirways Im researching a flight &amp; noticed a small issue w/class of service between your site &amp; other sites. Could Reservations help me?,,2/17/2015 9:25,Ohio,Eastern Time (US & Canada)
+213,-2101215232,neutral,0,,,United,,BhutanOrient,,0,@united that's what I thought! Thanks for the clarification!,,2/17/2015 9:25,Bhutan,Pacific Time (US & Canada)
+214,-1958191104,negative,1,Customer Service Issue,0.6454,US Airways,,cristalyze,,0,@US0.,,2/17/2015 9:25,Washington DC,Eastern Time (US & Canada)
+215,1405222914,negative,1,Damaged Luggage,1,United,,mac8315,,0,@unit back?,,2/17/2015 9:25,,Eastern Time (US & Canada)
+216,-201191423,negative,1,Customer Service Issue,1,Southwest,,StarkTTT,,0,@y help?,,2/17/2015 9:26,Ch?õteau d'If,Central Time (US & Canada)
+217,1392640000,neutral,0,,,Delta,,BritishAirNews,,0,@JetBlue's CEO Battles to Appease Passengers and Wall Street - http://t.co/frrfxCCw7Z http://t.co/nKlW9SsVRQ,,2/17/2015 9:28,UK,Sydney
+218,189296640,neutral,1,,,Southwest,,DaxJeter,,0,@SouthwestAir I am but it says yall are sold out. Me &amp; My coworkers would need to get out first available,,2/17/2015 9:28,NashvilleTN,
+219,-448262144,negative,1,Can't Tell,0.6632,Southwest,,jjenreich,,0,@ated!!,,2/17/2015 9:28,Fort Lauderdale,Central Time (US & Canada)
+220,620896257,neutral,0,,,Southwest,,JimmyCarrigan85,,0,@Southanks!,,2/17/2015 9:29,Chicago IL,
+221,1699246081,positive,0,,,US Airways,,mnardini1,,0,@usairways #crew keeping safety top of mind in CLT. http://t.co/a0YoSJHZMc,,2/17/2015 9:29,DC,Eastern Time (US & Canada)
+222,-859291648,positive,0,,0,Southwest,,kforbriger,,0,@SouthwestAir its all good. flight eventually took off and landed safely. oh and I got the free cup o wine. thx,,2/17/2015 9:29,Philly,Eastern Time (US & Canada)
+223,-842919936,neutral,0,,0,Southwest,,StarkTTT,,0,@SouthwestAir sure. Fhk2te. Am scheduled to leave this weekend but need to push to October,,2/17/2015 9:29,Ch?õteau d'If,Central Time (US & Canada)
+224,868368384,positive,0,,,Southwest,,StarkTTT,,0,@SouthwestAir and thanks!,,2/17/2015 9:29,Ch?õteau d'If,Central Time (US & Canada)
+225,486674432,negative,1,Customer Service Issue,0.6835,Delta,,alsonmusical,,0,@JetBlue they are rude and unhelpful. They suggested I ce (US & Canada)
+226,-876081152,positive,1,,,Delta,,thegayngler,,0,@JetBlue Seems very likely.,,2/17/2015 9:30,NY NY,Atlantic Time (Canada)
+227,1053319170,neutral,1,,,Southwest,,AirTraffic101,,0,@SouthwestAir landing early morning @BWI_Airport after snowfall. http://t.co/apRZsPxigE,,2/17/2015 9:30,Ellicott City Maryland,Eastern Time (US & Canada)
+228,1191333888,neutral,0,,0,United,,stephbahnie,,0,@united roundtrip tickets to NJ are DRAMATICALLY cheaper through Virgin pretty pricey via United. Can you match them?,,2/17/2015 9:31,,Pacific Time (US & Canada)
+229,1027747841,negative,1,Customer Service Issue,1,Southwest,,caralageson,,0,@SouthwestAir 45mins wait on the phone with no option for a callback? Finally had to hang up because my phone was dying. #customerservice,,2/17/2015 9:31,Cleveland Ohio,Central Time (US & Canada)
+230,-632815612,negative,1,Customer Service Issue,0.346,Southwest,,leahennessy,,0,@SouthwestAir why are flights still getting out of Logan now? You couldn't manage to get one out at 6 AM when it wasn't snowing!,,2/17/2015 9:31,Cambridge MA,
+231,-725458944,negative,1,Cancelled Flight,1,Delta,,alsonmusical,,0,@Jetspent almost $500,,2/17/2015 9:31,Yauco Puerto Rico,Central Time (US & Canada)
+232,-989700095,neutral,0,,0,United,,rajuchinthal on your way. ^JHÉ?ù,,2/17/2015 9:31,Indianapolis,Eastern Time (US & Canada)
+233,1950498816,negative,1,Cancelled Flight,0.6836,Southwest,,etachoir,,0,@southwestair Thanks. Yes I got through. Biggest frustration is that I'm no longer able to check in online for my flight after 4 Cancelled Flights.,,2/17/2015 9:32,Brooklyn NY,Eastern Time (US & Canada)
+234,-2004717568,negative,1,Late Flight,0.6922,Delta,,alsonmusical,,0,@JetBlue and they are telling me I got to get another hotel and food...so spend more money because you guys made me miss my connection,,2/17/2015 9:32,Yauco Puerto Rico,Central Time (US & Canada)
+235,-1391951871,negative,1,Customer Service Issue,1,Southwest,,leahennessy,,0,@SouthwestAir I also find it ridiculous that I've been tweeting to you since 3:50 AM EST and have still received no response. 9 hours?,,2/17/2015 9:32,Cambridge MA,
+236,-2096603135,negative,1,Flight Booking Problems,0.6581,US Airways,,TaiScott11,,0,@USAirways I booked a flight yesterday but didnt receive an email confirmation and I my dividends number isn't registering. Please help.,,2/17/2015 9:33,,
+237,-1744691200,negative,1,Cancelled Flight,1,Southwest,,clements221,,0,@SouthwestAir can you follow me? Flight Cancelled Flightled can't rebook online been on hold for 2 hours.  Would love to DM flight info. Thank you.,,2/17/2015 9:33,,
+238,319307776,neutral,0,,0,Southwest,,DaxJeter,,0,@SouthwestAir myself and 2 others,,2/17/2015 9:33,NashvilleTN,
+239,1195925504,positive,1,,,Delta,,PHopNy,,0,@JetBlue I did...#FlyFi worked well and was free aboard this flight,,2/17/2015 9:35,Queens NY,
+240,-1375584256,negative,1,Late Flight,0.7206,United,,Aeisinger,,0,@united you better hold my flight to Tucson #5237 just landed in Houston after an hour delay for some minor computer problem,,2/17/2015 9:35,Deerfield,Mountain Time (US & Canada)
+241,528613376,negative,1,Customer Service Issue,0.3654,United,,ljsbrooks,,0,@united I was denied use of a rear facing car seat on UA5025 an ERJ145. Can you confirm the actual policy?,,2/17/2015 9:36,,
+242,427958272,neutral,1,,,Southwest,,DaxJeter,,0,@SouthwestAir the 5:50 is sold out too?,,2/17/2015 9:36,NashvilleTN,
+243,2042757120,negative,0,Can't Tell,0.7027,Southwest,,clements221,,0,@SouthwestAir Thank you.  Twitter says I can't DM someone unless they follow me.  Can @SouthwestAir follows my twitter?,,2/17/2015 9:36,,
+244,-1669197824,negative,0,Flight Booking Problems,0.3463,Southwest,,clements221,,0,@SouthwestAir Twitter says I can't DM someone unless they follow me.  Can @SouthwestAir follows my twitter? thanks you.,,2/17/2015 9:37,,
+245,1824677889,neutral,1,,,US Airways,,bradleycfox,,0,@USAirways will my known traveler no. transfer over from @AmericanAir ? when I check in at t-24 as an AA elite I can get choice seats?,,2/17/2015 9:37,Seattle WA / 36000 feet,Pacific Time (US & Canada)
+246,-1442283519,positive,1,,,Southwest,,Bkloomer,,0,@SouthwestAir Karen with customer service was very helpful. Thank you for providing one bright spot in a frustrating situation.,,2/17/2015 9:38,,Central Time (US & Canada)
+247,-867663872,positive,0,,0,Southwest,,joepalko,,0,@SouthwestAir you guys are awesome... #dontchangeathing #luv,,2/17/2015 9:38,Delray Beach FL,Eastern Time (US & Canada)
+248,495456256,neutral,1,,,US Airways,,KristinKlutz,,0,"@USAirways I left my son's Duke hat on flight #1761 last night. It says ""Mason"" on the back. Any way of locating it? Thanks in advance!",,2/17/2015 9:38,,
+249,830607360,positive,1,,,Delta,,lquintalnh,,0,@JetBlue thanks!! Great service in #T5 already! #lovejetBlue,,2/17/2015 9:39,New Hampshire,Eastern Time (US & Canada)
+250,1099055104,neutral,0,,,United,,Trizzy412,,0,@united thank you!!!!! And next flight to Durango then driving to Farmington New Mexico for work! But hitting the slopes in Durango!,,2/17/2015 9:39,pittsburgh,Eastern Time (US & Canada)
+251,-666750976,positive,1,,,Delta,,Buttercup1121,,0,@JetBlue tough choices but I did all simultaneously! As a business traveler best experience in a long time. #wishmyflightwaslonger #what,,2/17/2015 9:39,ELL LAY,Pacific Time (US & Canada)
+252,1535258624,neutral,1,,,Southwest,,aaronkivett,,0,@SouthwestAir @gruber Finally.,,2/17/2015 9:39,Overland Park KS,
+253,-1568538624,positive,1,,,Southwest,,harrngtn,,0,@SouthwestAir Finally! Integration w/ passbook is a great Valentine gift - better then chocoLate Flight. You do heart me.,,2/17/2015 9:40,Austin TX,Central Time (US & Canada)
+254,126361600,positive,1,,,Southwest,,asepopo,,0,@SouthwestAir about time! Thank you!,,2/17/2015 9:43,,Eastern Time (US & Canada)
+255,-1304289280,positive,1,,,Southwest,,MzQdotFore,,0,@SouthwestAir is having a sale! I'm delighted!,,2/17/2015 9:43,Minneapolis Minnesota ,Mountain Time (US & Canada)
+256,-1836572670,neutral,0,,0,Southwest,,taesaunt24,,0,@SouthwestAir any idea on flights to Nashville tomorrow being clear or Cancelled Flightled,,2/17/2015 9:45,,Central Time (US & Canada)
+257,427974657,neutral,1,,,Southwest,,XTREMELYSERIOUS,,0,@SouthwestAir @NotPghTimothy no exceptions for national awards?,,2/17/2015 9:45,Pittsburgh PA,Quito
+258,-960360448,positive,0,,0,United,,brenttaylor,,0,@united Brandi Zabsonre in Denver deserves a raise for bringing delight into a terrible travel situation. big ups http://t.co/TK3aOpdtSQ,,2/17/2015 9:45,,Central Time (US & Canada)
+259,-1807204352,neutral,1,,,United,,BlueOceanTweets,,1,@United Is Changing Its #MileagePlus Program: Winners and Losers http://t.co/38OTLzAK5d #airline #travel #loyalty #rewards,,2/17/2015 9:45,Halifax Nova Scotia,Atlantic Time (Canada)
+260,1346895872,negative,0,Late Flight,0.3407,US Airways,,Champa24,,0,@USAirways any tips on getting a hotel that your airline won't get for any of us even though we were told that we'd make our flight?,,2/17/2015 9:46,,
+261,843202560,neutral,0,,0,United,,MelodyKho,,0,@united Confirmation number: NJV4BP - All I need is email confirmation of flight from NYC - SFO Feb 4,,2/17/2015 9:47,NYC Toronto ,Quito
+262,-477999104,neutral,1,,,Virgin America,,WWJAYD,,0,@VirginAmerica morning. If I have a question regarding elevate points &amp; flights can I DM you?,[37.80065252 -122.43857414],2/17/2015 9:47,San Franciso CA,Pacific Time (US & Canada)
+263,-712507391,negative,0,Cancelled Flight,0.7011,Delta,,oheyjasmine,,0,@JetBlue Been dealing with a Cancelled Flightled flight since last night &amp; was booked to a 6:15 flightwouldve at least liked to see Ella perform lol,,2/17/2015 9:47,Puerto Rico ,Hawaii
+264,-901615616,negative,0,Customer Service Issue,0.6581,United,,ColtSTaylor,,0,@united of course I need help.  I've been DMing you ladies and gents all day. Your only solution is hope for the best and LAX.,,2/17/2015 9:48,All Over The World,
+265,-16248832,positive,1,,,Virgin America,,ryan_kravontka,,0,@VirginAmerica just got on the 1pm in Newark home to LA. Your folks at EWR are incredible #letsgohome,,2/17/2015 9:49,Los Angeles CA,Tijuana
+266,-339607552,neutral,0,,0,United,,rakerr,,0,"@united I normally ask people to put on headphones...but not toddlers. Maybe planes should have a ""kid"" section (near the back) ;)",[0.0 0.0],2/17/2015 9:50,,Mountain Time (US & Canada)
+267,-1006075904,negative,1,Lost Luggage,1,US Airways,,itsjustdoc,,0,@USAirways it's not a consolation because my bags are somewhere else which is a real impediment to me going on a different vacation,,2/17/2015 9:50,Ohio,Quito
+268,-2029891583,neutral,1,,,Virgin America,,loungesong,,0,@VirginAmerica Are there any sign up bonuses to enroll in Elevate?,,2/17/2015 9:50,,
+269,-2046660608,neutral,0,,,Southwest,,DustinSoper,,0,"@SouthwestAir Hi! Thanks! Do you have an exact link to that specific page on your site you can share - or is it under ""Flight Status"":? Thx!",,2/17/2015 9:50,Nashville TN,Eastern Time (US & Canada)
+270,-1333628928,positive,1,,,Delta,,iSocialFanz,,0,@JetBlue huge fan of great brands and people doing great thingsÉ?? you guys rock happy to share the love!,,2/17/2015 9:51,Phoenix Az,Arizona
+271,-448647168,negative,0,Flight Booking Problems,0.6756,United,,ColtSTaylor,,0,@united I somehow think I'm going to be stuck paying for a hotel room in Denver without winter clothes on my dime.  I guess we'll see.,,2/17/2015 9:51,All Over The World,
+272,-733868032,negative,1,Cancelled Flight,1,US Airways,,Kyle_Clarke528,,0,@USAirtomers happy.,,2/17/2015 9:51,Worthington Ohio,Central Time (US & Canada)
+273,25722881,positive,1,,,Southwest,,PaytonTaylor129,STAIR,,2/17/2015 9:55,Nashville TN,Quito
+274,-1031647232,negative,1,Customer Service Issue,0.6737,Virgin America,,texasjuls,,0, were no help either ???≠,,2/17/2015 9:56,Texas,Central Time (US & Canada)
+275,-318242816,neutral,1,,,United,,aries83861,,0,@united Is there a way to get  a copy of Feb's edition of Hemisphere magazine with out flying?,,2/17/2015 9:57,ottawa,
+276,-134086656,positive,1,,,Southwest,,DustinSoper,,0,@SouthwestAir Thanks a ton!,,2/17/2015 9:57,Nashville TN,Eastern Time (US & Canada)
+277,910315520,negative,1,Cancelled Flight,1,Southwest,,susanpaint,,0,@SouthwestAir I need to request a refund on my flight that was Cancelled Flightled this morning due to the weather.,,2/17/2015 9:58,,
+278,-1605865470,negative,1,Customer Service Issue,1,United,,mosesfreund,,0,@united costumer service sucks! Waiting for a week for a response,,2/17/2015 9:58,,
+279,-465420287,negative,0,Customer Service Issue,0.6632,Southwest,,beccalauren2011,,0,@SouthwestAir Trying to add my dog on the flight but can't get through.,,2/17/2015 9:58,SMALL TOWN USA,Central Time (US & Canada)
+280,1586003968,negative,1,Customer Service Issue,1,US Airways,,ALHphoto,,0,@USAirways issues are not with people who r nice or storm emails with wrong phone numbers auto rebooked flights to non connecting cities,,2/17/2015 9:58,RaleighNC,Atlantic Time (Canada)
+281,361234432,negative,1,Customer Service Issue,0.6854,United,,elliotg9,,0,@united spending the afternoon @ Mia. Not your fault.  No lounge? Very inconvenient.,,2/17/2015 9:58,,
+282,-1417142272,negative,1,Lost Luggage,1,United,,jrrodrig57,,0,@united Miserable trip ... lost bag Sat... found Mon... lost again... shipping 2nd day ground Tues... might have it for return flight home,,2/17/2015 9:58,,
+283,1032355841,negative,1,Late Flight,0.7055,United,,rfogarty41,,0,@united is Late Flight again.  Everyone braved the weather and 40 passengers are waiting for a flight crew.  Really!,,2/17/2015 9:59,,
+284,1010978817,negative,1,Late Flight,1,United,,JenSpnSuperstar,,0,@united my mother's flton Texas,Central Time (US & Canada)
+285,88625154,neutral,1,,,US Airways,,JKrace45,,0,@USAirways is there any way that you could hold flight 628 in CLT my husband is stuck in the security check line. flight scheduled for 1PM,,2/17/2015 10:00,,
+286,1212706817,negative,1,Customer Service Issue,0.6738,US Airways,,ALHphoto,,0,@USAirways cust serv reps who are unable to change reservaime (Canada)
+287,-1266147327,positive,0,,0,Southwest,,GameDaySweetie,,0,@SouthwestAir thank you someone finally answered and was able to change my flight that was Cancelled Flighted bc of ice. Thank you for response,,2/17/2015 10:02,Nashville TN,
+288,591953921,negative,0,Late Flight,0.3573,Virgin America,,jonovoss,,0,@VirginAmerica my flight (6000) scheduled for 1pm departure still says on time but no plane at gate. Any update on how long of a delay?,,2/17/2015 10:02,Washington DC,Atlantic Time (Canada)
+289,2051174400,positive,1,,,United,,MaryStinchfield,,0,@united thankful for great service in Newark. Seats fixed and I was seated with my daughter! Fab landing in Fort Myers!,,2/17/2015 10:04,Massachusetts  ,
+290,-1929220096,negative,1,Bad Flight,1,United,,tcfitz3,,0,@united Not fast enough.  No excuse for service between big hubs to have such outdated craft. Southwest has wifi. This is awful.,,2/17/2015 10:04,Houston,Central Time (US & Canada)
+291,1703432193,positive,1,,,Southwest,,GameDaySweetie,,0,@SouthwestAir always when I fly SW. #loyalRRmember,,2/17/2015 10:04,Nashville TN,
+292,-566095871,neutral,1,,,Delta,,JetBlueNews,,0,@JetBlue CEO battles to please Wall St and flyers - from @NZherald http://t.co/Q4Amiw7FSw,,2/17/2015 10:05,USA,Sydney
+293,927490048,negative,1,Late Flight,1,United,,TuraPeter,,0,@united when is my plane coming?  Been delayed for almost 7 hours. No plane.,,2/17/2015 10:06,,
+294,1644711936,negative,1,Customer Service Issue,0.3505,US Airways,,jameypricephoto,,0,@USAirways I believe 10:08,,Eastern Time (US & Canada)
+295,398589952,negative,1,Cancelled Flight,0.6401,Delta,,alsonmusical,,0,@JetBlue as much i ha15 10:09,Yauco Puerto Rico,Central Time (US & Canada)
+296,-1991757823,neutral,0,,0,United,,MoonSetGallery,,0,@united Is there a 10:09,Southern New Jersey,Eastern Time (US & Canada)
+297,-2016927744,negative,1,Cancelled Flight,0.6474,US Airways,,cnichols9,,0,@USAirways Travelling from pwm to atl on Sunday That flight got Cancelled Flightled and my new flight is Cancelled Flightled and got disconnected when reFlight Booking Problems,,2/17/2015 10:09,Georgia,
+298,-565702656,negative,1,Customer Service Issue,1,Southwest,,CaliNigga62B,,0,@SouthwestAir yeah bruh its bool y'all niggaz just need to hire some more workers or something cause next time imma be forced ta disrespect.,,2/17/2015 10:09,,
+299,784859137,negative,1,Lost Luggage,1,Southwest,,9ad16006a6014a6,,0,@SouthwestAir can i have my bags back   ding!!,,2/17/2015 10:11,,
+300,142741505,negative,1,Customer Service Issue,1,Southwest,,LedPinkCloudz,,0,@SouthwestAir are you kidding me?  I needed help yesterday. I'm now landed and waiting for my connection.  Never will I fly southwest again!,,2/17/2015 10:11,Las Vegas NV,Pacific Time (US & Canada)
+301,-435658751,negative,1,Cancelled Flight,1,Southwest,,JaleenaPosty,,0,@SouthwestAir Flight Cancelled Flightled out of BNA.... Do I have to reschedule now or can travel funds be put back into my account for future use?,,2/17/2015 10:11,,
+302,1195532288,neutral,0,,0,Southwest,,RBrandtPhoto,,0,@SouthwestAir I am following you now. I don't think I can DM until you follow me.,,2/17/2015 10:12,,
+303,222433280,neutral,0,,0,Southwest,,RBrandtPhoto,,0,@SouthwestAir or you could send me a DM.,,2/17/2015 10:12,,
+304,-666341375,negative,1,Late Flight,1,United,,MsDMichelle,,0,@united Second day &amp; attempt trying to leave IAD &amp; I'm on another plane delayed for mechanical issues. Over an hour delayed!,,2/17/2015 10:13,Washington DC,Eastern Time (US & Canada)
+305,-419270656,negative,1,Customer Service Issue,1,Southwest,,LedPinkCloudz,,0,@SouthwestAir worst customer service Terrible attitudes. I don't care how big a storm.  Your employees need an attitude adjustment,,2/17/2015 10:13,Las Vegas NV,Pacific Time (US & Canada)
+306,1334341633,positive,0,,,United,,RWMann,,0,@United WiFi onboard 737-800 far superior in pricing and performance (user-perceived bandwidth and Late Flightncy) to recent @GoGo experiences.,,2/17/2015 10:14,Port Washington NY 11050,Eastern Time (US & Canada)
+307,-355983360,negative,1,Bad Flight,1,United,,fshubert,,0,@united 1591 had wi-fi broken on plane. Had same outage on 1618 on Friday. How can Southwest get it right on every plane but United can't?,,2/17/2015 10:14,Northwestern NJ,Eastern Time (US & Canada)
+308,125960193,negative,0,Bad Flight,0.6778,Virgin America,,tan_talize,,0,@VirginAmerica mood lighting on point???? Reclining my seat kickin up my feet????,,2/17/2015 10:14,LA&OC,
+309,843599875,negative,1,Flight Attendant Complaints,1,US Airways,,sampleonephl,,0,@USAirways 2015 10:14,NYC,Central Time (US & Canada)
+310,-1274515455,negative,1,Lost Luggage,0.6716,United,,jholowka,,0,@united Nearly 48 rn Time (US & Canada)
+311,524443648,neutral,1,,,Southwest,,deantak,,0,@SouthwestAir followed.,,2/17/2015 10:15,Silicon Valley,Pacific Time (US & Canada)
+312,-708284416,neutral,1,,,Delta,,CinziannaP,,0,@JetBlue how do I get a copy of my last flight showing original time and delay? I need it for work. Thanks!,,2/17/2015 10:15,,Eastern Time (US & Canada)
+313,-1882718206,neutral,0,,,Southwest,,JosephGruber,,0,@SouthwestAir Already rebooked for tomorrow. Fingers crossed!,,2/17/2015 10:18,Arlington VA,Eastern Time (US & Canada)
+314,2063745025,neutral,1,,,Delta,,labeles,,0,@JetBlue okayyyy. But I had huge irons on way out. Promise no shenanigans?,,2/17/2015 10:18,,
+315,-1496821760,positive,1,,,Delta,,amyfame,,0,@JetBlue Thank you!,,2/17/2015 10:19,,Eastern Time (US & Canada)
+316,2030583810,negative,1,Cancelled Flight,0.6227,Southwest,,BernhardtJH,,0,@SouthwestAir @BernhardtJH I did ev20,Columbus OH,Eastern Time (US & Canada)
+317,-1182244863,neutral,0,,0,United,,rdahlstrom99,,0,"@United just played the Most bizarre ""safety"" video I've ever seen... http://t.co/Hlm2Oks6xl",,2/17/2015 10:20,??T: 40.635407-73.991869,
+318,-570286079,positive,1,,,Southwest,,StarkTTT,,0,@SouthwestAir yes. Thank you. Oct 25-oct 31,,2/17/2015 10:20,Ch?õteau d'If,Central Time (US & Canada)
+319,1058332672,negative,1,Can't Tell,0.6551,Southwest,,joycarmody,,0,@SouthwestAir You need to be more accommodating to your loyal customers. Not happy now!,,2/17/2015 10:20,Tampa,
+320,348274688,negative,1,Customer Service Issue,1,Southwest,,justinmcintosh,,1,@SouthwestAir Almost 2 hours on hold now. I just need to Cancelled Flight a flight and get a refund. Other airlines are operating!,,2/17/2015 10:21,iPhone: 36.205651-86.695243,Central Time (US & Canada)
+321,935878656,negative,0,Cancelled Flight,0.3571,Southwest,,RobinDamato,,0,@SouthwestAir flt 648 from Buf to MCO. Conf#FGKXV5. Please also look into reimburse for car 587701925COUNT that I had to Cancelled Flight,,2/17/2015 10:21,Orchard Park NY,
+322,-887861248,positive,0,,0,US Airways,,TreyWheelerCEO,,0,@USAirways É?? I had exceptional service on flight #403 from IND to PHX!!,[36.08584875 -115.14968355],2/17/2015 10:22,Lima OH,Eastern Time (US & Canada)
+323,323506176,negative,1,Can't Tell,1,US Airways,,_JoeChuck,,0,@USAirways @AmericanAir what a joke of a company today reminded me why I never book with you,,2/17/2015 10:23,CT to Queens ,Eastern Time (US & Canada)
+324,-880656384,negative,0,Customer Service Issue,0.9594,Southwest,negative,bdhatch1,Customer Service Issue,0,@SouthwestAir please send me a number to call to talk to a person and not be put on hold,,2/17/2015 10:24,,Eastern Time (US & Canada)
+325,-519950336,negative,0,Flight Booking Problems,0.6923,Southwest,,jonw4570,,0,@SouthwestAir no had to rebook my flight myself and am about to board in bham.,,2/17/2015 10:26,Huntsville AL,Central Time (US & Canada)
+326,-578682880,negative,1,Customer Service Issue,0.6748,Southwest,,dallendoug,,0,@SouthwestAir there really should not be guidance to call via phone if you are that back logged. I could have done it online in 3 minutes.,,2/17/2015 10:26,Washington DC,
+327,742522880,negative,1,Cancelled Flight,1,Southwest,,dallendoug,,0,@SouthwestAir how about when there are Cancelled Flightlations you just have a link to rebook like you did for initial storm issues?,,2/17/2015 10:27,Washington DC,
+328,-775786495,negative,1,Flight Booking Problems,0.3429,United,,courtneymjay,,0,@united giving up on your direct flight from IAH to Honolulu. 3rd attempt in 3 years - 3rd delay.  $7 meal voucher. Wow. Customer service!,,2/17/2015 10:28,,Atlantic Time (Canada)
+329,1703030784,negative,0,Late Flight,0.3474,Southwest,,caralageson,,0,@SouthwestAir can someone help me set up a callback today?,,2/17/2015 10:28,Cleveland Ohio,Central Time (US & Canada)
+330,-167641086,negative,0,Customer Service Issue,0.6439,Southwest,,dallendoug,,0,"@SouthwestAir the person I talked to couldn't do anything not normally available online other than the ""no charge"" part.",,2/17/2015 10:28,Washington DC,
+331,-410509312,negative,1,Late Flight,0.6667,United,,fshubert,,0,@united @NY_NJairports Only at Newark can you land 15 minutes early but lose all that time waiting on tarmac for a gate.,,2/17/2015 10:28,Northwestern NJ,Eastern Time (US & Canada)
+332,-1874309120,neutral,1,,,US Airways,,ewenmilligan,,0,@USAirways what is the baggage allowance on flights from Glasgow to the US?  Thanks,,2/17/2015 10:28,Fife Dunfermline,London
+333,1140989952,negative,1,Customer Service Issue,0.6907,Delta,,_katiewarren,,0,@JetBlue glitches on website ree.,,2/17/2015 10:29,,Arizona
+334,173350912,negative,1,Customer Service Issue,1,Southwest,,dallendoug,,0,@SouthwestAir also theyashington DC,
+335,-16642048,negative,1,Customer Service Issue,1,Southwest,,dallendoug,,0,"@SouthwestAir not terribly inspired to call ""customer service"" in the future now.",,2/17/2015 10:29,Washington DC,
+336,650661888,negative,1,Cancelled Flight,1,US Airways,,erickofiejones,,0,@USAirways No I missed the funeral so I had to take a train back to Newark,,2/17/2015 10:30,,Eastern Time (US & Canada)
+337,-1190633472,positive,0,,,Southwest,,mrshossruns,,0,@SouthwestAir no worries. We got thru eventually. I was just curious. Best of luck to you dealing with the weather!,,2/17/2015 10:31,,Eastern Time (US & Canada)
+338,1791119361,negative,1,Flight Attendant Complaints,1,Southwest,,LedPinkCloudz,,0,@SouthwestAir and currently as im bringing my 3 year old to the bathroom I'm being rushed by the flight attendant.,,2/17/2015 10:33,Las Vegas NV,Pacific Time (US & Canada)
+339,-675123198,positive,1,,,Virgin America,,Perceptions,,0,@VirginAmerica really wish you'd fly out of #Fargo @fargoairport those fares are amazings,,2/17/2015 10:33,Fargo ND ( & Tucson AZ),Central Time (US & Canada)
+340,1422024704,negative,1,Customer Service Issue,1,US Airways,,tamajared,,0,@USAirways Don't tell me that. Tell me what I can actually DO to reach someone. I don't mind being put on hold but it won't even do THAT.,,2/17/2015 10:33,DC / MIA,Quito
+341,-1374359552,negative,1,Bad Flight,0.3789,US Airways,,ElaineLibrarian,,0,.@USAirways we r rebooked. got conflicting info abt baggage. Y no extra plane batteries on hand? Y no comped admirals club for 9 hr wait?,,2/17/2015 10:34,Albany NY,Central Time (US & Canada)
+342,-171831296,negative,1,Customer Service Issue,1,Southwest,,LedPinkCloudz,,0,@SouthwestAir I will.make sure to tell everyone I know about this all around horrible experience. I will also post it on my business page.,,2/17/2015 10:34,Las Vegas NV,Pacific Time (US & Canada)
+343,-2100809728,positive,1,,,US Airways,,lauras_music,,0,@USAirways Fabulous - thank you so much! Looking forward to taking to the skies with you! :),,2/17/2015 10:34,Ohio,Eastern Time (US & Canada)
+344,-1407963136,neutral,0,,,Southwest,,Michael_Stirrat,,0,@SouthwestAir Happily! But you need to follow me in order for me to DM you,,2/17/2015 10:34,??T: 32.259172-110.788252,Arizona
+345,-79167488,negative,1,Customer Service Issue,0.6725,United,,rjewry,,1,@united the refund request functionality on http://t.co/5IMDckODfx is broken.i get a time out error.,,2/17/2015 10:35,,
+346,-494776318,negative,1,Late Flight,1,Southwest,,sahandmirza,,0,@SouthwestAir Heard apology:35,San Francisco CA,
+347,1128427520,negative,1,Bad Flight,1,Southwest,,LedPinkCloudz,,0,@SouthwestAir in my 30 years of flyinga)
+348,1397239808,positive,0,,,United,,swampynomo,,0,@united stay warm - I will be passing through Chicago next week,,2/17/2015 10:35,NJ/NYC,Eastern Time (US & Canada)
+349,-402493440,neutral,1,,,Delta,,JetBlueNews,,0,@JetBlue's new CEO seeks the right balance to please passengers and Wall ... - Weyburn Review http://t.co/rtQyjCvTQ3,,2/17/2015 10:36,USA,Sydney
+350,-1350029312,negative,0,Late Flight,0.3366,US Airways,,zachupton,,0,@USAirways please hogs my next flight for me! I'm waiting on a bus to get me off one plane so I can run to the other. It leaves in two min!,,2/17/2015 10:36,Beavercreek Ohio,
+351,-884473856,positive,1,,,Southwest,,Masterpeacefull,,0,@SouthwestAir no worries. You're doing the best u can. Already Cancelled Flighted my biz trip. Still $LUV you! -RR 1079871763,,2/17/2015 10:36,,Central Time (US & Canada)
+352,-1774043135,neutral,1,,,Delta,,CaseyParksIt,,0,@JetBlue if my flight says delayed with estimated departure listed can I arrive at airport Late Flightr?,,2/17/2015 10:36,Chicagoland,
+353,516435968,neutral,0,,0,Southwest,,maitlande,,0,@SouthwestAir I absolutely will. Where can I send it?,,2/17/2015 10:36,Boston MA,Eastern Time (US & Canada)
+354,1833447425,neutral,0,,0,US Airways,,zachupton,,0,@USAirways please hold 3923! I can see it. Just can't get off my first plane quick enough,,2/17/2015 10:36,Beavercreek Ohio,
+355,-406315008,neutral,0,,0,Virgin America,,the22207,,0,@VirginAmerica Can you give me Silver Status for 12 months?,,2/17/2015 10:40,,Central Time (US & Canada)
+356,1573392385,negative,1,Customer Service Issue,0.6867,US Airways,,Dazoulai,,0,@USAirways No speciifc email. 1500 character limit for complaints. Is AA/US customer complaints adopting the twitter model?,,2/17/2015 10:40,,
+357,-385335295,negative,1,Late Flight,1,Delta,,CaseyParksIt,,0,@JetBlue figured but delay is listed at almost 2 hrs. Thanks for being great! Cheers,,2/17/2015 10:41,Chicagoland,
+358,-1262342144,positive,1,,,US Airways,,themadhacker13,,0,@USAirways customer service at its finest,,2/17/2015 10:42,East Coast,Eastern Time (US & Canada)
+359,-666742784,positive,1,,,Delta,,nickj1399,,0,@JetBlue was just at T5 a little over a month ago. @JetBlue you guys are great thanks for everything!,,2/17/2015 10:42,,
+360,-49782784,negative,0,Flight Attendant Complaints,0.36,US Airways,,Jack_Kairys,,0,@USAirways then why did my whole team be able to put there carry ons under the plane,,2/17/2015 10:43,,
+361,2135429121,negative,1,Late Flight,1,Southwest,,The_Chellers,,0,@SouthwestAir I understand a delay but to be stuck on the plane longer than the flight is unacceptable,,2/17/2015 10:44,Washington DC,Eastern Time (US & Canada)
+362,-548929535,neutral,1,,,United,,andtheretheygo,,0,@united Q: Just purchased ticket to #Hawaii for trip in Late Flight-March. Does this mean we will acquire miles based on price or distance flown?,,2/17/2015 10:45,,
+363,659886080,positive,0,,0,United,,pbralick,,0,@united doing a good thing holding flight for a few for 11 peeps on Late Flight connecting flight. We'll still make destination on time,,2/17/2015 10:45,Colorado,Mountain Time (US & Canada)
+364,906493952,negative,1,Flight Attendant Complaints,0.6585,Southwest,,rwcrampton,,0,@SouthwestAir Hey SWAir- a very tortured boarding on flight 1971 due to one gate agent having to board assisted folks one at a time.,,2/17/2015 10:46,Atlanta Georgia,
+365,151547905,negative,1,Cancelled Flight,1,US Airways,,BlessedEpiphany,,0,@usairways and @AmericanAir  4 days of Cancelled Flightations I have driven to 3 airports in 3 different states spent more on gas than my flight.,,2/17/2015 10:47,Dallas TX by way of Tampa FL,America/Chicago
+366,2076336128,negative,0,Cancelled Flight,0.6737,Southwest,,paigelarae,,0,@SouthwestAir they put me on the next flight available.. tomorrow morning :( Any idea if BNA will be open in the morning for my flight?,,2/17/2015 10:49,,Central Time (US & Canada)
+367,-376963072,negative,0,Can't Tell,0.3531,US Airways,,BlessedEpiphany,,0,@USAirways @AmericanAir  best u could do-I might get my refund within 2 billing cycles. Months of u guys asking for another chance. I'm done,,2/17/2015 10:49,Dallas TX by way of Tampa FL,America/Chicago
+368,-884858879,positive,0,,0,US Airways,,KristinKlutz,,0,@USAirways thank you! I tried that and they said they didn't have it. Anywhere else to try?,,2/17/2015 10:50,,
+369,1812480000,positive,0,,,Delta,,JayVig,,0,@JetBlue @roxydigital HAHA. you didnÉ??t disappoint. Well done. #JVMChat,,2/17/2015 10:50,Jersey City NJ,Eastern Time (US & Canada)
+370,-787972096,negative,1,Can't Tell,0.6338,Southwest,,clarelanusse,,0,@SouthwestAir super disappointed today. First time we've had to stress and now book a flight on another airline while at the airport,,2/17/2015 10:50,,Pacific Time (US & Canada)
+371,1254637568,neutral,0,,,Delta,,jadidheart,,0,@JetBlue alittle more money to book our flights... we're 1/2 way there :),,2/17/2015 10:50,,
+372,-909606911,positive,1,,,Delta,,roxydigital,,0,@JetBlue @JayVig YES! Great real-time example. Thanks for being awesome #JetBlue! #JVMChat,,2/17/2015 10:50,Charlotte NC,Eastern Time (US & Canada)
+373,272785408,neutral,0,,0,Southwest,,stephwalker78,,0,@SouthwestAir RDU flights expected to be ok this afternoon and tonight?,,2/17/2015 10:51,Southern Virginia!!!!!!,
+374,-2125955072,positive,1,,,Southwest,,colorsflashing6,,0,@SouthwestAir @PaytonTaylor129 I love Southwest and Payton Taylor!,,2/17/2015 10:51,Nashville TN,Eastern Time (US & Canada)
+375,1862819842,neutral,0,,,Delta,,JayVig,,0,@JetBlue @roxydigital Good. I want extra peanuts on my flight then. lol. #JVMChat,,2/17/2015 10:51,Jersey City NJ,Eastern Time (US & Canada)
+376,-1740484608,negative,1,Customer Service Issue,1,Southwest,,sahandmirza,,0,"@SouthwestAir is there a problem with the website? I tried making changes w/ the app and the site but got ""unspecified errors""",,2/17/2015 10:51,San Francisco CA,
+377,-175632384,negative,1,Bad Flight,0.6524,United,,alecearush,,0,@United yall tried it with this little bitty plane flying out of boston!! I hate little planes!!!,,2/17/2015 10:52,,
+378,1984065536,positive,1,,,Delta,,jacobhenenberg,,0,@JetBlue @JayVig @roxydigital awww ^_^ R to the T realtime appreciation from JetBlue #rockingthetweets #JVMChat,,2/17/2015 10:53,Melbourne Australia,Melbourne
+379,211038208,negative,1,Lost Luggage,1,United,,ms06883,,0,@united u l2015 10:54,fairfield county connecticut,
+380,1887973378,positive,1,,,Delta,,vegecomgirl,,0,@JetBlue @JayVig I like the inflight snacks! I'm flying with you guys on 2/28! #JVMChat,,2/17/2015 10:54,New York City,Eastern Time (US & Canada)
+381,1683255296,positive,1,,,Virgin America,,kellitweets,,0,@VirginAmerica thanks! Y'all have some of the best customer service left in the industry.,,2/17/2015 10:54,Texas,Central Time (US & Canada)
+382,-95924224,neutral,0,,0,US Airways,,DAngel082,,0,@USAirways  my flight was #3729...but I left my phone on the plane or the shuttle :(,,2/17/2015 10:55,New York,
+383,-1769439232,negative,1,Flight Attendant Complaints,0.6849,US Airways,,afioto,,0,@USAirways this is the aforementioned pilot. @AmericanAir sure you want to mergea)
+384,-1295491071,negative,1,Late Flight,0.6768,US Airways,,HelloKansas,,0,@USAirways how is your gate agent gonna tell me my Time (US & Canada)
+385,520224769,negative,1,Late Flight,0.3804,Southwest,,caffiend,,0,@SouthwestAir Buying Early Bird was pointntral Time (US & Canada)
+386,-1610084352,neutral,0,,,Delta,,vegecomgirl,,0,@JetBlue Well I try! See you soon!! @JayVig,,2/17/2015 10:57,New York City,Eastern Time (US & Canada)
+387,-7856128,negative,1,Late Flight,0.7078,US Airways,,simuLate Flightthis,,0,@USAirways I want my money back. Now we're sitting on the runway. After a 2 hour delay waiting for the baggage to begin loading.,[40.6488643 -73.7944749],2/17/2015 10:57,Queens,Quito
+388,985804800,positive,1,,,United,,sarahrib,,0,@united on a good note t/2015 10:58,Plattsburgh New York,Quito
+389,650252288,negative,1,Flight Booking Problems,1,Southwest,,sahandmirza,,0,"@Southwestall SWA",,2/17/2015 10:58,San Francisco CA,
+390,-360153088,neutral,1,,,Delta,,JayVig,,0,@JetBlue @vegecomgirl For me itÉ??s not until 6/15.,,2/17/2015 10:59,Jersey City NJ,Eastern Time (US & Canada)
+391,-2143141888,negative,1,Flight Attendant Complaints,0.6659,Southwest,,Foxycleo13,,0,@SouthwestAir the woman working the counter in philly at 630 this am needs to be fired. Due to bad weather I along with other passengers,,2/17/2015 10:59,Memphis TN,Central Time (US & Canada)
+392,-1153273856,positive,1,,,US Airways,,htmella,,0,@USAirways Haha - that will indeed be a great day!,,2/17/2015 11:00,Washington DC,Quito
+393,67641345,negative,1,Flight Attendant Complaints,0.3437,United,,SSest72,,0,@united 1 refused boarding with Nexus. nexus confirmed she should not be refused,,2/17/2015 11:01,,
+394,-1106739200,negative,1,Late Flight,0.6563,Delta,,JayVig,,0,@JetBlue 117 days maybe.,,2/17/2015 11:01,Jersey City NJ,Eastern Time (US & Canada)
+395,-767016960,negative,0,Flight Booking Problems,0.3404,Southwest,,philipasteen,,0,@SouthwestAir I think I'm shot. Can't find a flight that arrives before business (SAN) on thu. Really want to go too.,,2/17/2015 11:01,Where you want to be!,Central Time (US & Canada)
+396,-213368832,negative,1,Can't Tell,1,US Airways,,kpbball41,,0,@USAirways you are horrendous.  Pull your shit together,,2/17/2015 11:01,Boston MA,Quito
+397,1896361984,positive,0,,0,Southwest,,mrs_laurelanne,,0,@SouthwestAir thanks got put on the am flight tomorrow.  Don't have much faith it'll get off the ground tomorrow though.,,2/17/2015 11:01,,
+398,961032192,negative,1,Customer Service Issue,0.6701,United,,SSest72,,0,@united 2 employee yelled at her. 3 employee stood with others whispering and pointing at her from behind counter,,2/17/2015 11:02,,
+399,-2025299967,negative,0,Can't Tell,0.3494,United,,SSest72,,0,@united nexus confirmed that at any crossing via air car or boat she can travel with only Nexus.,,2/17/2015 11:02,,
+400,-1530773503,positive,1,,,US Airways,,TreyWheelerCEO,,0,@USAirways Absolutely!! The staff was amazing!!,[36.08576903 -115.14953095],2/17/2015 11:02,Lima OH,Eastern Time (US & Canada)
+401,172511232,negative,0,Flight Booking Problems,0.3333,US Airways,,GainesJohnson,,0,@USAirways Flight Booking Problems a flight using credit from a previousVirginia,Central Time (US & Canada)
+402,1846046723,negative,1,Flight Attendant Complaints,0.6404,United,,SSest72,,0,@united she3,,
+403,1834270720,negative,1,Flight Attendant Complaints,1,Southwest,,Foxycleo13,,0,@SouthwestAir Ive had on an airline. Everyentral Time (US & Canada)
+404,-95928320,negative,1,Customer Service Issue,0.6806,United,,SSest72,,0,@united with Karen and found her unhelpful and rude  called United at the time &amp; told she could board but Karen would not accept,,2/17/2015 11:04,,
+405,-2033700863,negative,1,Customer Service Issue,1,US Airways,,rkasold,,0,@USAirways will you please update your website with the)
+406,864567296,positive,1,,,Delta,,eddieanderson4u,,0,@JetBlue - BlueManity brought tears to my eyes. JetBlue' s commitment to giving back to the crewmembers and the community is aww inspiring!,,2/17/2015 11:04,New York NY,Central Time (US & Canada)
+407,390594560,negative,1,Customer Service Issue,1,Southwest,,M_RoyceWilliams,,0,@SouthwestAir - I have spent 87 minutes (and counti & Canada)
+408,-1496829952,neutral,0,,0,United,,thesuesaga,,0,@united What is the policy behind changing passengers' seating assignments at the gate?,,2/17/2015 11:05,North Hollywood CA,
+409,2118664192,positive,1,,,Virgin America,,onerockgypsy,,0,@VirginAmerica you guys are perfect as always! &lt;3 #WeRVirgin,,2/17/2015 11:06,next city,Pacific Time (US & Canada)
+410,503853057,positive,1,,,Southwest,,laura_ying,,0,@SouthwestAir finally got through. Thanks!,,2/17/2015 11:06,Houston Texas,
+411,-1647833088,negative,0,Can't Tell,0.3439,Southwest,,RPChewington,,0,@SouthwestAir why are you the ONLY airline that is not flying out of BNA today?,,2/17/2015 11:07,,Atlantic Time (Canada)
+412,-389545983,negative,1,Lost Luggage,1,US Airways,,MsAmanRm103,,0,@USAirways Waiting for my luggage on flight 1923. Is there a delay?,,2/17/2015 11:09,Detroit MI,
+413,1880416256,neutral,0,,0,US Airways,,Eagles_SAB,,0,@USAirways Darn it first in line for no upgrade! Wish I understood the policy. :) http://t.co/xGPaAyFDwt,,2/17/2015 11:09,Philadelphia PA,Central Time (US & Canada)
+414,134348800,negative,1,Flight Booking Problems,0.708,US Airways,,shoobe01,,0,@usairways If I could/wanted to call I wouldn't use the internet to make a reservation. swSite won't work on Chrome on several computers.,,2/17/2015 11:10,Mission Kansas,
+415,-150446079,negative,1,Lost Luggage,0.6901,United,,joelraronoff,,0,@united 45 /17/2015 11:12,Denver CO,Mountain Time (US & Canada)
+416,298344448,negative,1,Flight Attendant Complaints,0.6419,US Airways,,liquidfox1,,0,@USAirways me too. In the future have a better harsh weather preparedness plan. So much of your staff called out that everything snowballed,,2/17/2015 11:13,This is an AD account. 18+,
+417,88236032,negative,1,Customer Service Issue,1,Southwest,,amyegoley,,0,@SouthwestAir @CBSsoxfan you get to hold? called twice only to be kicked off.calls 3-6 #phonedied #AListpreferred http://t.co/1TZZ0vbMbS,,2/17/2015 11:13,Flowood MS,Central Time (US & Canada)
+418,1510481921,negative,1,Lost Luggage,1,Southwest,,alysonphoto,,0,@SouthwestAir an entire flight of luggage missing at #dca.  Over an hour and nobody knows anything.,,2/17/2015 11:13,Here and there.,Pacific Time (US & Canada)
+419,1065885697,negative,1,Customer Service Issue,0.6607,Delta,,ShiraJudah,,0,@JetBlue @KyleJudah It doesn't matter who you directed me to. It's the principle of the matter. When I gate checked the stroller it was,,2/17/2015 11:13,Boston MA,Greenland
+420,-1610059776,positive,0,,0,US Airways,,erickofiejones,,0,@USAirways Thank you so much its been a very stressful day,,2/17/2015 11:13,,Eastern Time (US & Canada)
+421,348278784,negative,0,Customer Service Issue,0.6904,Southwest,,andresecarvallo,,0,@SouthwestAir I recommend upgrading your IVR and using call back email and texting from a know caller.,,2/17/2015 11:14,Austin TX,Central Time (US & Canada)
+422,-1815601150,positive,1,,,Southwest,,DebMannRN,,0,@SouthwestAir Another great flight &amp; crew Las Vegas-Chicago #3397. Thanks!,,2/17/2015 11:14,Indy,Eastern Time (US & Canada)
+423,1308774400,negative,1,Customer Service Issue,0.3516,United,,catmaxed,,0,@united It is super frustrating that the folks at the U
+424,1679089664,negative,1,Bad Flight,0.6383,Southwest,,Grae_Drake,,0,@SouthwestAir Your onboard wifi is so bad it's taking me 20 minutes to send this tweet.  Working is off the table. #disappointed,,2/17/2015 11:16,NYC,Mountain Time (US & Canada)
+425,-2050457598,neutral,0,,0,US Airways,,DaintyKenyan,,0,@USAirways I was supposed to be on flight 1861 from Charlotte to RDU @ 8:20pm yesterday. Is the same flight scheduled for departure tonight?,,2/17/2015 11:17,Research Triangle Park N.C.,Quito
+426,-2067636224,neutral,0,,,Southwest,,fleur_de_chic,,0,@SouthwestAir just did thank you,,2/17/2015 11:18,212 by way of the 504.,
+427,-905424893,negative,1,Can't Tell,0.7077,United,,elliotg9,,0,@united which is why my next flights to Miami will be on another airline.,,2/17/2015 11:19,,
+428,-137060352,negative,1,Customer Service Issue,0.6413,Southwest,,jwgonsalves,,0,@SouthwestAir Received em1:20,San Francisco California ,Eastern Time (US & Canada)
+429,1740767232,negative,0,Late Flight,0.3579,United,,AndrewBarco1,,0,& Canada)
+430,432553984,negative,1,Late Flight,0.6632,Delta,,gczark,,0,@JetBlue I normally Éù?ã?è you but this Late Flightst fl (US & Canada)
+431,-1442287615,negative,1,Customer Service Issue,1,Southwest,,OnyxMediagroup1,,0,@SouthwestAir do you do auto callbacks so I don't have to wait on hold?,,2/17/2015 11:21,USA,Eastern Time (US & Canada)
+432,792870912,negative,1,Flight Attendant Complaints,0.3511,Southwest,,clarelanusse,,0,@SouthwestAir your gate agent re-routed an impossible itinerary and we had to find a new airline to get us home. Super bummed about this,,2/17/2015 11:21,,Pacific Time (US & Canada)
+433,961048576,negative,1,Late Flight,0.6489,United,,jupiterjpr,,0,@united  flight 441 on 2/4 was delayed over three hours because the pilot never showed up!,,2/17/2015 11:21,,
+434,1695035393,neutral,0,,0,US Airways,,zachupton,,0,@USAirways unfortunately not. I think I watched it take off from the bus. Rebooked for a Late Flightr flight now #planestrainsandautomobiles,,2/17/2015 11:21,Beavercreek Ohio,
+435,-1270718462,negative,1,Can't Tell,0.6632,Southwest,,clarelanusse,,0,@SouthwestAir good thing we noticed because she had re-routed 7 total passengers on an impossible triple connection as well,,2/17/2015 11:22,,Pacific Time (US & Canada)
+436,193077249,positive,1,,,Delta,,OBF_Walt,,0,@JetBlue Learning about your awesome twitter management today in my Social Media Marketing class! keep up the good work! @SXU @PhD_Mama_,,2/17/2015 11:23,,
+437,-394125312,negative,1,Late Flight,0.7139,United,,conlach,,0,@uno home.,,2/17/2015 11:23,Bozeman Montana,Central Time (US & Canada)
+438,-1203232768,negative,0,Customer Service Issue,0.65,United,,MBinMD,,0,@united - could you please send me a phone # to the refunds department?  We have submitted our claim through email without success.,,2/17/2015 11:23,,Eastern Time (US & Canada)
+439,-1181470720,negative,0,Can't Tell,0.6566,Delta,,EasyEdmund,,0,@JetBlue just learning about your famous apology in social media marketing. Is Twitter an asset for Jet Blue now? @PhD_Mama_,,2/17/2015 11:23,OH-LA-AZ-NY-AFG-IL-?,
+440,-2038276096,neutral,1,,,Southwest,,RBrandtPhoto,,0,@SouthwestAir Just sent you a DM with the details.,,2/17/2015 11:24,,
+441,1514692610,neutral,0,,0,United,,CWWMUK,,0,@united No not received any e-mails in either Inbox or junk/spam,,2/17/2015 11:24,North West of England,
+442,1858617345,negative,0,Can't Tell,0.3883,Southwest,,leahennessy,,0,@SouthwestAir please PM me the number where I can lodge formal complaints. Thx,,2/17/2015 11:24,Cambridge MA,
+443,-1052221440,negative,1,Customer Service Issue,1,US Airways,,Dazoulai,,0,@USAirways Thks 4 tip. Seems like a workaround rather than a customer-friendly solution. They should have an easily accessible email.,,2/17/2015 11:24,,
+444,848580608,negative,1,Bad Flight,1,Delta,,gczark,,0,@JetBlue hard to tell but was told wifi only worked for one side of the plane.,,2/17/2015 11:25,New York NY,Eastern Time (US & Canada)
+445,1556230144,negative,0,Late Flight,0.6633,United,,jmacie3,,0,@united thanks kp but luckily my transfer has maintenance issues and is still delayed so I didn't miss my transfer...,,2/17/2015 11:26,,
+446,1623334912,positive,0,,,Southwest,,joshgrider,,0,@SouthwestAir got it squared away. Thank you. I had a man on the inside help me out!,,2/17/2015 11:26,New Braunfels TX,Central Time (US & Canada)
+447,-1924648958,negative,1,Bad Flight,0.6481,United,,DGomezPearlberg,,1,@united its 2010.70749747 -74.17084113],2/17/2015 11:27,NYC,Eastern Time (US & Canada)
+448,-339202047,neutral,1,,,Southwest,,realMattHolt,,0,@SouthwestAir chances of flight leaving BNA tomorrow at 6:20 am (to LGA)?,,2/17/2015 11:27,nyc/nashville/san diego,Eastern Time (US & Canada)
+449,-1781207040,negative,1,Flight Booking Problems,0.3571,United,,TexanHollie,,0,@united I don't need to make any The Lone Star State,Central Time (US & Canada)
+450,-1224196096,neutral,1,,,Virgin America,,paulhting,,0,@virginamerica Any way to change from Main Cabin to Main Cabin Select (on same flight) without paying a change fee penalty?,,2/17/2015 11:27,Charlottesville VA,Eastern Time (US & Canada)
+451,2026000384,negative,0,Flight Booking Problems,0.3626,United,,TexanHollie,,0,@united I danada)
+452,1644691456,negative,1,Flight Attendant Complaints,1,United,,thodge77,,0,@united waiting for flight 4567 to memphis. Time (US & Canada)
+453,390225920,negative,1,Customer Service Issue,1,US Airways,,izzyflan,,0,@USAirways never in my life have I dealt with such poor customer service irresponsible staff and lack of care LGA-IAH day 2 baggage in NC?,,2/17/2015 11:29,,
+454,1565007872,negative,0,Flight Attendant Complaints,0.3523,United,,thodge77,,0,@united flight 4567 agent now wandered off. PilotsS & Canada)
+455,-855093248,negative,1,Flight Attendant Complaints,1,United,,DGomezPearlberg,,1,@united each flight is worse tha48],2/17/2015 11:29,NYC,Eastern Time (US & Canada)
+456,1787314176,negative,1,Cancelled Flight,1,United,,thodge77,,0,@united fli30,Memphis,Central Time (US & Canada)
+457,1002979328,negative,0,Lost Luggage,0.6533,United,,rizolltizide,,0,@united who can tell me where they are?,,2/17/2015 11:30,St. Pete,Eastern Time (US & Canada)
+458,780288000,negative,1,Bad Flight,0.3733,US Airways,,j_husucks,,0,@USAirways @Jack_Kairys your site clearly explains we are allowed a carry on. This was allowed at PIT but not BOS. How does that make sense?,,2/17/2015 11:31,,
+459,1367879681,neutral,0,,,Delta,,Clagett,,0,@JetBlue 2:55 tomorrow from RIC to BOS. Looking good or am I better rescheduling?,,2/17/2015 11:31,Jamestown Virginia ,
+460,-577433600,positive,1,,,Delta,,DrewRHacker,,1,@JetBlue Thank you that it is not just a livery; it is a culture that 16000+ crewmembers embody daily #thanksDave http://t.co/iNNP0Kkyby,,2/17/2015 11:31,,
+461,-62390269,neutral,1,,,US Airways,,JenniesMagic,,0,@USAirways done,,2/17/2015 11:31,,Eastern Time (US & Canada)
+462,-989302784,negative,1,Customer Service Issue,1,US Airways,,rkasold,,0,@USAirways the phone number the gate gave me doesn't work either. What is your customer service phone number?,,2/17/2015 11:32,,Eastern Time (US & Canada)
+463,-1207812096,neutral,0,,0,Southwest,,Gomeziz,,0,@SouthwestAir  Tried to DM you it won't let me as it says you are not following me.,,2/17/2015 11:32,Austin TX,Central Time (US & Canada)
+464,-1895682048,negative,1,Flight Attendant Complaints,0.6923,US Airways,,j_husucks,,0,@USAirways also your employees were LESS then helpful when @Jack_Kairys was checking his bag. Two just left their desks completely (1/2),,2/17/2015 11:32,,
+465,847388672,negative,1,Flight Attendant Complaints,1,US Airways,,j_husucks,,0,@USAirways @Jack_Kairys (2/2) and another sent him to the wrong line...oh and the kiosks weren't working! #thanks,,2/17/2015 11:33,,
+466,1950883841,neutral,0,,,Delta,,mtmridesbikes,,0,@JetBlue rocking the Tim McGraw hold music,[0.0 0.0],2/17/2015 11:33,Raleigh NC,
+467,1598160898,neutral,0,,0,Delta,,shawnaldridge,,0,@JetBlue Haha. I figured that. I was meaning there's no return flights out of Charlotte. It's like N/A for a week plus,,2/17/2015 11:34,Portland OR,Pacific Time (US & Canada)
+468,1032331264,negative,1,Late Flight,0.3545,US Airways,,rkasold,,0,@USAirways flight 1808 is not leaving at 2:45 because we haven't even begun to board yet. Please update your website ASAP,,2/17/2015 11:35,,Eastern Time (US & Canada)
+469,-1089150976,neutral,0,,,Delta,,JetBlueNews,,0,@JetBlue's new CEO seeks the right balance to please passengers and Wall ... - Times Colonist http://t.co/NzDXRvszWv,,2/17/2015 11:36,USA,Sydney
+470,956833793,neutral,0,,,Southwest,,TomVH,,0,@SouthwestAir thank you for the response. How can I got about getting the points onto my rewards account?,,2/17/2015 11:36,Michigan,Eastern Time (US & Canada)
+471,122187776,neutral,0,,,Southwest,,bebeabramson,,1,@SouthwestAir we desparately need yall to make a nonstop BNA-&gt; TUL! Cmon it'll be popular. ???? (right @annebevi @PaulBev1  @MikeAbramson??),,2/17/2015 11:37,,Central Time (US & Canada)
+472,-1249366016,negative,1,Lost Luggage,1,United,,raedenez,,0,@united bags are still in Houston since Friday and still have not been reimbursed the baggage fee.,,2/17/2015 11:37,North Tonawanda,
+473,-1925038080,positive,1,,,Delta,,shawnaldridge,,0,@JetBlue I will. I love flying with you all. Great service.,,2/17/2015 11:37,Portland OR,Pacific Time (US & Canada)
+474,659034113,positive,0,,0,Virgin America,,onerockgypsy,,0,@VirginAmerica so loyal that I'm driving to #NYC from #PA to fly Virgin  since you cut #Philly flights ;),,2/17/2015 11:38,next city,Pacific Time (US & Canada)
+475,2038984704,negative,0,Flight Booking Problems,0.3358,Virgin America,,paulhting,,0,@virginamerica Trying to make the change in advance (not just 24 hours prior)É??tried it online earlier and it wanted $300 in change fees.,,2/17/2015 11:38,Charlottesville VA,Eastern Time (US & Canada)
+476,1523916800,positive,0,,,Southwest,,famousswan,,0,@SouthwestAir I got a flight at 11:55am on Thursday but looking for something tomorrow anything available?,,2/17/2015 11:39,,
+477,1032327169,negative,0,Can't Tell,0.6531,Southwest,,TomVH,,0,@SouthwestAir right but the point was that my kids don't fly often but I do. I bought four round trip tickets from DtW to PHX so I'm....,,2/17/2015 11:40,Michigan,Eastern Time (US & Canada)
+478,383066112,negative,1,Late Flight,1,Delta,,LyndsaySignor,,0,@JetBlue Is there something going on with your alerts? Flight's been delayed several times for my parents and i'm not receiving any alerts.,,2/17/2015 11:40,New York City,Quito
+479,-616009728,negative,0,Flight Booking Problems,0.6907,Southwest,,TomVH,,0,@SouthwestAir missing out on over 6000 points in one account. They're now spread over four assuming I create accounts for them,,2/17/2015 11:41,Michigan,Eastern Time (US & Canada)
+480,1925713920,negative,1,Late Flight,1,United,,thodge77,,0,@united flt. 4567 departure time has changed five times in the last 20 minutes. Why don't you figure out a solution and announce once?,,2/17/2015 11:41,Memphis,Central Time (US & Canada)
+481,-922222592,positive,1,,,United,,RWMann,,0,@united Thanks ^KP. Please also mention the Quiche breakfast and Tandoori chicken dinner entrees and accompaniments are truly First Class.,,2/17/2015 11:42,Port Washington NY 11050,Eastern Time (US & Canada)
+482,1673662464,neutral,0,,0,Delta,,LyndsaySignor,,0,@JetBlue i'm getting info from the website but needing to check it and the alerts would be much more beneficial.,,2/17/2015 11:42,New York City,Quito
+483,1304969216,negative,1,Flight Attendant Complaints,0.6789,United,,thodge77,,0,@united flt 4567 no gate agent no announcements. So unprofessional. Time to go back to @Delta,,2/17/2015 11:42,Memphis,Central Time (US & Canada)
+484,-905424896,negative,1,Flight Booking Problems,0.3603,US Airways,,jdpletnick,,1,@USAirways charging 17/2015 11:43,Newtown Pa,Quito
+485,1501696000,neutral,0,,,Southwest,,famousswan,,0,@SouthwestAir from LGA to San Diego,,2/17/2015 11:43,,
+486,1107845120,negative,1,Customer Service Issue,0.6845,US Airways,,_JoeChuck,,1,@USAirways on hold for 2 hours. You know what just keep my money,,2/17/2015 11:44,CT to Queens ,Eastern Time (US & Canada)
+487,-1929248768,negative,1,Can't Tell,0.6632,Delta,,travelingranger,,0,@JetBlue heard about the charge for 1st bag and tighter seats - no need to be a loyal JB customer anymore!,,2/17/2015 11:44,,
+488,747143168,negative,1,Damaged Luggage,0.6735,Delta,,ShiraJudah,,0,@JetBlue @KyleJudah I just soston MA,Greenland
+489,1402269696,positive,1,,,Southwest,,patpohler,,0,@SouthwestAir thanks I think we've got it figured out,,2/17/2015 11:47,Columbus OH,Quito
+490,2143420416,negative,1,Cancelled Flight,0.6889,Southwest,,bdhatch1,,0,@SouthwestAir you Can2/17/2015 11:47,,Eastern Time (US & Canada)
+491,-83337216,negative,1,Damaged Luggage,0.6954,Delta,,ShiraJudah,,0,@JetBlue @Kyle/17/2015 11:48,Boston MA,Greenland
+492,-1501024255,negative,0,Can't Tell,0.6778,Delta,,ShiraJudah,,0,@JetBlue @KyleJudah be responsible for replacing it,,2/17/2015 11:48,Boston MA,Greenland
+493,-825729024,negative,0,Customer Service Issue,0.6579,Virgin America,,cayocrazy,,0,@VirginAmerica Umm so no reason as to why this is? Is there someone different I should contact (or contact me) to get a definitive answer?,,2/17/2015 11:48,,
+494,-2146942976,negative,1,Late Flight,0.6652,United,,DC_Geoff,,1,@united St7/2015 11:49,Washington DC,Atlantic Time (Canada)
+495,-1593692160,positive,0,,,Delta,,LyndsaySignor,,0,@JetBlue Great thanks,,2/17/2015 11:49,New York City,Quito
+496,671621122,neutral,1,,,Southwest,,simply_unique11,,0,@SouthwestAir needs to offer a college student discount so i can fly home ????????,,2/17/2015 11:50,,Eastern Time (US & Canada)
+497,106229760,negative,1,Can't Tell,0.7184,Delta,,travelingranger,,0,@JetBlue I'll give u a chance but I don't think I'll fall for it #backtodelta,,2/17/2015 11:50,,
+498,679616512,neutral,1,,,Southwest,,KentScheidegger,,0,@SouthwestAir Is there any way to add a Known Traveler Number to an existing reservation online?  If not why not?,,2/17/2015 11:51,,
+499,383049728,positive,1,,,Delta,,aidan_larson,,1,@JetBlue Thank you for the service credit. And to @PamGrout for positive thoughts.,,2/17/2015 11:51,austin texas,Paris
